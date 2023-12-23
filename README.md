@@ -76,7 +76,7 @@ I am happy to mentor a few students on research and especially encourage student
 - UIUC John R. Pasta Outstanding Undergraduate Award
 
 ## 📍 Professional Services
-- Reviewer: NeurIPS, ICLR, AAAI, IJCAI, CVPR, ACL, EMNLP, ARR, AISTATS, KDD, LOG.
+- Reviewer: NeurIPS, ICML, ICLR, AAAI, IJCAI, CVPR, ACL, EMNLP, ARR, AISTATS, KDD, LOG.
 
 ## 📫 Contact
 Email: jieyuz2@cs.washington.edu

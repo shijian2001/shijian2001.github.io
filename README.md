@@ -4,13 +4,16 @@ I am a 4-th year Ph.D. student in Computer Science at the University of Washingt
 
 I am happy to mentor a few students on research and especially encourage students from **underrepresented groups** to reach out.
 
+## 📑 AutoGen Blogs
+- [Agent AutoBuild - Automatically Building Multi-agent Systems](https://microsoft.github.io/autogen/blog/2023/11/26/Agent-AutoBuild)
+- [EcoAssistant: Using LLM Assistant More Affordably and Accurately](https://microsoft.github.io/autogen/blog/2023/11/09/EcoAssistant)
+
 ## 📝 Selected Publications
 (\* denotes equal contribution)
 
 ### Preprints
 - [EcoAssistant: Using LLM Assistant More Affordably and Accurately](https://arxiv.org/abs/2310.03046)
 <br>**Jieyu Zhang**, Ranjay Krishna, Ahmed Awadallah, Chi Wang.
-<br>[[blog](https://microsoft.github.io/autogen/blog/2023/11/09/EcoAssistant)]
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
 <br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Awadallah, Ryen White, Doug Burger, Chi Wang
 <br><font color=red>Github 18,000+ Star & 2,000+ Fork</font>

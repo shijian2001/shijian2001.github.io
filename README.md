@@ -79,6 +79,7 @@ I am happy to mentor a few students on research and especially encourage student
 - UIUC John R. Pasta Outstanding Undergraduate Award
 
 ## 📍 Professional Services
+- Leading organizer of **Synthetic Data for Computer Vision Workshop @ CVPR 2024**
 - Reviewer: NeurIPS, ICML, ICLR, AAAI, IJCAI, CVPR, ACL, EMNLP, ARR, AISTATS, KDD, LOG.
 
 ## 📫 Contact

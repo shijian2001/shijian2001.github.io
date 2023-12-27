@@ -5,6 +5,7 @@ I am a 4-th year Ph.D. student in Computer Science at the University of Washingt
 I am happy to mentor a few students on research and especially encourage students from **underrepresented groups** to reach out.
 
 ## 📑 AutoGen Blogs
+- [AgentOptimizer: An Agentic Way to Train Your LLM Agent](https://microsoft.github.io/autogen/blog/2023/12/23/AgentOptimizer)
 - [Agent AutoBuild: Automatically Building Multi-agent Systems](https://microsoft.github.io/autogen/blog/2023/11/26/Agent-AutoBuild)
 - [EcoAssistant: Using LLM Assistant More Affordably and Accurately](https://microsoft.github.io/autogen/blog/2023/11/09/EcoAssistant)
 

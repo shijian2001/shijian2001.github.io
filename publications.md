@@ -6,7 +6,7 @@
 <br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Awadallah, Ryen White, Doug Burger, Chi Wang.
 - [SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models](https://arxiv.org/abs/2307.10635)
 <br>Xiaoxuan Wang\*, Ziniu Hu\*, Pan Lu\*, Yanqiao Zhu\*, **Jieyu Zhang**, Satyen Subramaniam, Arjun R. Loomba, Shichang Zhang, Yizhou Sun, Wei Wang
-<br><font color=red>Nature News Feature</font> [link](https://www.nature.com/articles/d41586-023-03507-3)
+<a href="https://www.nature.com/articles/d41586-023-03507-3" style="color: red; text-decoration: underline;text-decoration-style: dotted;">Nature News Feature</a>
 
 ### Peer-reviewed
 - [NLPBench: Evaluating Large Language Models on Solving NLP Problems](http://arxiv.org/abs/2309.15630)

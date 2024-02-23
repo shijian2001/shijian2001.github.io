@@ -72,10 +72,11 @@
 <br>Yue Yu, Lingkai Kong, **Jieyu Zhang**, Rongzhi Zhang, Chao Zhang.
 <br>*NAACL 2022*.
 <br><font color=red>Oral Presentation</font>
-****
 - [Creating Training Sets via Weak Indirect Supervision](https://arxiv.org/abs/2110.03484)
 <br>**Jieyu Zhang**, Bohan Wang, Xiangchen Song, Yujing Wang, Yaming Yang, Jing Bai, Alexander Ratner.
 <br>*ICLR 2022*.
 - [Nemo: Guiding and Contextualizing Weak Supervision for Interactive Data Programming](https://arxiv.org/abs/2203.01382)
 <br>Cheng-Yu Hsieh, **Jieyu Zhang**, Alexander Ratner.
 <br>*VLDB 2022*.
+
+****

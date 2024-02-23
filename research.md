@@ -1,4 +1,4 @@
-(\* denotes equal contribution, = denotes student I mentored)
+(\* denotes equal contribution, = denotes student I mentor)
 ### AI Agents
 - [Training Language Model Agents without Modifying Language Models](https://arxiv.org/abs/2402.11359)
 <br>Shaokun Zhang\*, **Jieyu Zhang\***, Jiale Liu, Linxin Song, Chi Wang, Ranjay Krishna, Qingyun Wu.

@@ -9,7 +9,7 @@
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
 <br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Awadallah, Ryen White, Doug Burger, Chi Wang.
 <br><a href="https://github.com/microsoft/autogen" style="color: red; text-decoration: underline">Github 22,000+ Star & 3,000+ Fork</a>
-
+****
 
 ### Benchmarks / Evaluation
 - [SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models](https://arxiv.org/abs/2307.10635)
@@ -27,7 +27,7 @@
 <br>**Jieyu Zhang**, Yue Yu, Yinghao Li, Yujing Wang, Yaming Yang, Mao Yang, Alexander Ratner.
 <br>*NeurIPS 2021*.
 <br><font color=red>Oral Presentation</font>
-
+****
 
 ### Data Selection / Generation
 - [DataComp: In Search of the Next Generation of Multimodal Datasets](https://arxiv.org/abs/2304.14108)
@@ -49,7 +49,7 @@
 - [Adaptive Ranking-based Sample Selection for Weakly Supervised Class-imbalanced Text Classification](https://aclanthology.org/2022.findings-emnlp.119/)
 <br>Linxin Song=, **Jieyu Zhang**, Tianxiang Yang, Masayuki Goto
 <br>*EMNLP 2022*.
-
+****
 
 ### Data Labeling
 - [Characterizing the Impacts of Semi-supervised Learning for Weak Supervision]()
@@ -71,6 +71,7 @@
 <br>Yue Yu, Lingkai Kong, **Jieyu Zhang**, Rongzhi Zhang, Chao Zhang.
 <br>*NAACL 2022*.
 <br><font color=red>Oral Presentation</font>
+****
 - [Creating Training Sets via Weak Indirect Supervision](https://arxiv.org/abs/2110.03484)
 <br>**Jieyu Zhang**, Bohan Wang, Xiangchen Song, Yujing Wang, Yaming Yang, Jing Bai, Alexander Ratner.
 <br>*ICLR 2022*.

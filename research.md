@@ -28,6 +28,7 @@
 <br>**Jieyu Zhang**, Yue Yu, Yinghao Li, Yujing Wang, Yaming Yang, Mao Yang, Alexander Ratner.
 <br>*NeurIPS 2021*.
 <br><font color=red>Oral Presentation</font>
+
 ****
 
 ### Data Selection / Generation
@@ -50,6 +51,7 @@
 - [Adaptive Ranking-based Sample Selection for Weakly Supervised Class-imbalanced Text Classification](https://aclanthology.org/2022.findings-emnlp.119/)
 <br>Linxin Song=, **Jieyu Zhang**, Tianxiang Yang, Masayuki Goto
 <br>*EMNLP 2022*.
+
 ****
 
 ### Data Labeling

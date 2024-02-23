@@ -3,7 +3,7 @@
 - [Training Language Model Agents without Modifying Language Models](https://arxiv.org/abs/2402.11359)
 <br>Shaokun Zhang\*, **Jieyu Zhang\***, Jiale Liu, Linxin Song, Chi Wang, Ranjay Krishna, Qingyun Wu.
 - [EHRAgent: Code Empowers Large Language Models for Complex Tabular Reasoning on Electronic Health Records](https://arxiv.org/abs/2401.07128)
-<br>Wenqi Shi, Ran Xu, Yuchen Zhuang, Yue Yu, **Jieyu Zhang**, Hang Wu, Yuanda Zhu, Joyce Ho, Carl Yang, May D Wang
+<br>Wenqi Shi, Ran Xu, Yuchen Zhuang, Yue Yu, **Jieyu Zhang**, Hang Wu, Yuanda Zhu, Joyce Ho, Carl Yang, May D Wang.
 - [EcoAssistant: Using LLM Assistant More Affordably and Accurately](https://arxiv.org/abs/2310.03046)
 <br>**Jieyu Zhang**, Ranjay Krishna, Ahmed Awadallah, Chi Wang.
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)

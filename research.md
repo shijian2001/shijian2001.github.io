@@ -55,7 +55,7 @@
 ****
 
 ### Data Labeling
-- [Characterizing the Impacts of Semi-supervised Learning for Weak Supervision]()
+- [Characterizing the Impacts of Semi-supervised Learning for Weak Supervision](https://openreview.net/forum?id=Z8TjsPFBSx)
 <br>Jeffrey Li, **Jieyu Zhang**, Ludwig Schmidt, Alexander Ratner.
 <br>*NeurIPS 2023*.
 - [Leveraging Instance Features for Label Aggregation in Programmatic Weak Supervision](https://arxiv.org/abs/2210.02724)

@@ -15,14 +15,16 @@ I am happy to mentor a few students on research and especially encourage student
 ### Preprints
 - [Training Language Model Agents without Modifying Language Models](https://arxiv.org/abs/2402.11359)
 <br>Shaokun Zhang\*, **Jieyu Zhang\***, Jiale Liu, Linxin Song, Chi Wang, Ranjay Krishna, Qingyun Wu.
-- [EcoAssistant: Using LLM Assistant More Affordably and Accurately](https://arxiv.org/abs/2310.03046)
-<br>**Jieyu Zhang**, Ranjay Krishna, Ahmed Awadallah, Chi Wang.
-- [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
-<br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Awadallah, Ryen White, Doug Burger, Chi Wang
-<br><a href="https://github.com/microsoft/autogen" style="color: red; text-decoration: underline">Github 22,000+ Star & 3,000+ Fork</a>
-
 
 ### Peer-reviewed
+- [EcoAssistant: Using LLM Assistant More Affordably and Accurately](https://arxiv.org/abs/2310.03046)
+<br>**Jieyu Zhang**, Ranjay Krishna, Ahmed Awadallah, Chi Wang.
+<br>LLM Agents @ ICLR
+- [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
+<br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Awadallah, Ryen White, Doug Burger, Chi Wang
+<br>LLM Agents @ ICLR
+<br><font color=red>Oral Presentation</font>
+<br><a href="https://github.com/microsoft/autogen" style="color: red; text-decoration: underline">Github 22,000+ Star & 3,000+ Fork</a>
 - [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training](https://arxiv.org/abs/2305.12224)
 <br>**Jieyu Zhang\***, Bohan Wang\*, Zhengyu Hu, Pang Wei Koh, Alexander Ratner.
 <br>*NeurIPS 2023*.

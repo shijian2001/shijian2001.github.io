@@ -19,46 +19,46 @@ I am happy to mentor a few students on research and especially encourage student
 ### Peer-reviewed
 - [EcoAssistant: Using LLM Assistant More Affordably and Accurately](https://arxiv.org/abs/2310.03046)
 <br>**Jieyu Zhang**, Ranjay Krishna, Ahmed Awadallah, Chi Wang.
-<br>LLM Agents @ ICLR
+<br>*LLM Agents @ ICLR*
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
 <br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Awadallah, Ryen White, Doug Burger, Chi Wang
-<br>LLM Agents @ ICLR
+<br>*LLM Agents @ ICLR*
 <br><font color=red>Oral Presentation</font>
 <br><a href="https://github.com/microsoft/autogen" style="color: red; text-decoration: underline">Github 22,000+ Star & 3,000+ Fork</a>
 - [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training](https://arxiv.org/abs/2305.12224)
 <br>**Jieyu Zhang\***, Bohan Wang\*, Zhengyu Hu, Pang Wei Koh, Alexander Ratner.
-<br>*NeurIPS 2023*.
+<br>*NeurIPS 2023*
 - [SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality](https://arxiv.org/abs/2306.14610)
 <br>Cheng-Yu Hsieh\*, **Jieyu Zhang\***, Zixian Ma, Aniruddha Kembhavi, Ranjay Krishna
-<br>*NeurIPS 2023*.
+<br>*NeurIPS 2023*
 - [Large Language Model as Attributed Training Data Generator: A Tale of Diversity and Bias](https://arxiv.org/abs/2306.15895)
 <br>Yue Yu\*, Yuchen Zhuang\*, **Jieyu Zhang\***, Yu Meng, Alexander Ratner, Ranjay Krishna, Jiaming Shen, Chao Zhang.
-<br>*NeurIPS 2023*.
+<br>*NeurIPS 2023*
 - [DataComp: In Search of the Next Generation of Multimodal Datasets](https://arxiv.org/abs/2304.14108)
 <br>34 authors.
-<br>*NeurIPS 2023*.
+<br>*NeurIPS 2023*
 <br><font color=red>Oral Presentation</font>
 - [Leveraging Instance Features for Label Aggregation in Programmatic Weak Supervision](https://arxiv.org/abs/2210.02724)
 <br>**Jieyu Zhang\***, Linxin Song\*, Alexander Ratner.
-<br>*AISTATS 2023*.
+<br>*AISTATS 2023*
 - [Understanding Programmatic Weak Supervision via Source-aware Influence Function](https://arxiv.org/abs/2205.12879)
 <br>**Jieyu Zhang\***, Haonan Wang\*, Cheng-Yu Hsieh, Alexander Ratner.
-<br>*NeurIPS 2022*.
+<br>*NeurIPS 2022*
 - [Creating Training Sets via Weak Indirect Supervision](https://arxiv.org/abs/2110.03484)
 <br>**Jieyu Zhang**, Bohan Wang, Xiangchen Song, Yujing Wang, Yaming Yang, Jing Bai, Alexander Ratner.
-<br>*ICLR 2022*.
+<br>*ICLR 2022*
 - [WRENCH: A Comprehensive Benchmark for Weak Supervision](https://arxiv.org/abs/2109.11377)
 <br>**Jieyu Zhang**, Yue Yu, Yinghao Li, Yujing Wang, Yaming Yang, Mao Yang, Alexander Ratner.
-<br>*NeurIPS 2021*.
+<br>*NeurIPS 2021*
 <br><font color=red>Oral Presentation</font>
 
 ### Before Ph.D.
 - [Taxonomy Completion via Triplet Matching Network](https://arxiv.org/abs/2101.01896)
 <br>**Jieyu Zhang**, Xiangchen Song, Ying Zeng, Jiaze Chen, Jiaming Shen, Yuning Mao, Lei Li.
-<br>*AAAI 2021*.
+<br>*AAAI 2021*
 - [Co-Embedding Network Nodes and Hierarchical Labels with Taxonomy Based Generative Adversarial Networks](https://www.computer.org/csdl/proceedings-article/icdm/2020/831600a721/1r54IXOTRSg)
 <br>Carl Yang, **Jieyu Zhang**, Jiawei Han.
-<br>*ICDM 2020*.
+<br>*ICDM 2020*
 <br><font color=red>Best Paper</font>
 
 ## 🎓 Education

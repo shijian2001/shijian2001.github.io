@@ -24,7 +24,6 @@ I am happy to mentor a few students on research and especially encourage student
 <br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Awadallah, Ryen White, Doug Burger, Chi Wang
 <br><ins>*LLM Agents @ ICLR 2024*</ins>
 <br><font color=red>Oral Presentation</font>
-<br><a href="https://github.com/microsoft/autogen" style="color: red; text-decoration: underline">Github 22,000+ Star & 3,000+ Fork</a>
 - [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training](https://arxiv.org/abs/2305.12224)
 <br>**Jieyu Zhang\***, Bohan Wang\*, Zhengyu Hu, Pang Wei Koh, Alexander Ratner.
 <br><ins>*NeurIPS 2023*</ins>

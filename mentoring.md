@@ -2,10 +2,10 @@
 - [Zhengyu Hu](https://ppsmk388.github.io)
 <br>outcome: 1\*KDD
 - [Chengkai Hou](https://jackhck.github.io/) 
-<br>[MS@Jilin university, looking for PhD position starting in fall'24]
+<br>[MS@Jilin university, looking for PhD position starting in fall'25]
 <br>outcome: 2\*ICCV
 - [Linxin Song](https://linxins97.github.io/) 
-<br>[MS@Waseda University, looking for PhD position starting in fall'24]
+<br>[MS@Waseda University -> PhD@USC]
 <br>outcome: 1\*EMNLP, 1\*AISTATS
 - [Minhao Jiang](https://minhaoj2.github.io/) 
 <br>[Undergrad@UIUC -> MS@UIUC]

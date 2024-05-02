@@ -12,11 +12,10 @@ I am happy to mentor a few students on research and especially encourage student
 ## 📝 Selected Publications
 (\* denotes equal contribution)
 
-### Preprints
+### Peer-reviewed
 - [Training Language Model Agents without Modifying Language Models](https://arxiv.org/abs/2402.11359)
 <br>Shaokun Zhang\*, **Jieyu Zhang\***, Jiale Liu, Linxin Song, Chi Wang, Ranjay Krishna, Qingyun Wu.
-
-### Peer-reviewed
+<br><ins>*ICML 2024*</ins>
 - [EcoAssistant: Using LLM Assistant More Affordably and Accurately](https://arxiv.org/abs/2310.03046)
 <br>**Jieyu Zhang**, Ranjay Krishna, Ahmed Awadallah, Chi Wang.
 <br><ins>*LLM Agents @ ICLR 2024*</ins>

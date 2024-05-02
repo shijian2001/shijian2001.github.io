@@ -1,12 +1,8 @@
 (\* denotes equal contribution, = denotes student I mentor)
 ### AI Agents
-- [m&m's: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks](https://arxiv.org/abs/2403.11085)
-<br>Zixian Ma, Weikai Huang, **Jieyu Zhang**, Tanmay Gupta, Ranjay Krishna.
 - [Training Language Model Agents without Modifying Language Models](https://arxiv.org/abs/2402.11359)
 <br>Shaokun Zhang\*, **Jieyu Zhang\***, Jiale Liu, Linxin Song, Chi Wang, Ranjay Krishna, Qingyun Wu.
-- [EHRAgent: Code Empowers Large Language Models for Complex Tabular Reasoning on Electronic Health Records](https://arxiv.org/abs/2401.07128)
-<br>Wenqi Shi, Ran Xu, Yuchen Zhuang, Yue Yu, **Jieyu Zhang**, Hang Wu, Yuanda Zhu, Joyce Ho, Carl Yang, May D Wang.
-<br>*LLM Agents @ ICLR 2024*
+<br>*ICML 2024*
 - [EcoAssistant: Using LLM Assistant More Affordably and Accurately](https://arxiv.org/abs/2310.03046)
 <br>**Jieyu Zhang**, Ranjay Krishna, Ahmed Awadallah, Chi Wang.
 <br>*LLM Agents @ ICLR 2024*
@@ -19,11 +15,12 @@
 ****
 
 ### Benchmarks / Evaluation
+- [m&m's: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks](https://arxiv.org/abs/2403.11085)
+<br>Zixian Ma, Weikai Huang, **Jieyu Zhang**, Tanmay Gupta, Ranjay Krishna.
 - [SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models](https://arxiv.org/abs/2307.10635)
 <br>Xiaoxuan Wang\*, Ziniu Hu\*, Pan Lu\*, Yanqiao Zhu\*, **Jieyu Zhang**, Satyen Subramaniam, Arjun R. Loomba, Shichang Zhang, Yizhou Sun, Wei Wang
+<br>*ICML 2024*
 <br><a href="https://www.nature.com/articles/d41586-023-03507-3" style="color: red; text-decoration: underline">Nature News Feature</a>
-- [NLPBench: Evaluating Large Language Models on Solving NLP Problems](http://arxiv.org/abs/2309.15630)
-  <br>Linxin Song=, **Jieyu Zhang**, Lechao Cheng, Pengyuan Zhou, Tianyi Zhou, Irene LI.
 - [SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality](https://arxiv.org/abs/2306.14610)
 <br>Cheng-Yu Hsieh\*, **Jieyu Zhang\***, Zixian Ma, Aniruddha Kembhavi, Ranjay Krishna.
 <br>*NeurIPS 2023*

@@ -75,6 +75,7 @@ I am happy to mentor a few students on research and especially encourage student
 ## 🏅 Awards
 - OpenAI Superalignment Fellowship
 - Apple Scholar in AI/ML PhD Fellowship
+- LLM Agents @ ICLR 2024 Best Paper Award
 - Jane Street Graduate Research Fellowship Honorable Mention
 - CRA Outstanding Undergraduate Researcher Honorable Mention
 - ICDM'20 Best Paper Award

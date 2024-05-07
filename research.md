@@ -8,8 +8,7 @@
 <br>*LLM Agents @ ICLR 2024*
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
 <br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Awadallah, Ryen White, Doug Burger, Chi Wang
-<br>*LLM Agents @ ICLR 2024*
-<br><font color=red>Oral Presentation</font>
+<br><font color=red>Best Paper</font> <ins>*LLM Agents @ ICLR 2024*</ins>
 <br><a href="https://github.com/microsoft/autogen" style="color: red; text-decoration: underline">Github 22,000+ Star & 3,000+ Fork</a>
 
 ****

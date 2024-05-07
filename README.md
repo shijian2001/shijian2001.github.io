@@ -23,8 +23,7 @@ I am happy to mentor a few students on research and especially encourage student
 <br><ins>*LLM Agents @ ICLR 2024*</ins>
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
 <br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Awadallah, Ryen White, Doug Burger, Chi Wang
-<br><ins>*LLM Agents @ ICLR 2024*</ins>
-<br><font color=red>Oral Presentation</font>
+<br><font color=red>Best Paper</font> <ins>*LLM Agents @ ICLR 2024*</ins>
 - [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training](https://arxiv.org/abs/2305.12224)
 <br>**Jieyu Zhang\***, Bohan Wang\*, Zhengyu Hu, Pang Wei Koh, Alexander Ratner.
 <br><ins>*NeurIPS 2023*</ins>

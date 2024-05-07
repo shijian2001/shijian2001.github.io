@@ -23,7 +23,7 @@ I am happy to mentor a few students on research and especially encourage student
 <br><ins>*LLM Agents @ ICLR 2024*</ins>
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
 <br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Awadallah, Ryen White, Doug Burger, Chi Wang
-<br><font color=red>Best Paper</font> <ins>*LLM Agents @ ICLR 2024*</ins>
+<br><ins>*LLM Agents @ ICLR 2024*</ins> <font color=red>Best Paper</font> 
 - [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training](https://arxiv.org/abs/2305.12224)
 <br>**Jieyu Zhang\***, Bohan Wang\*, Zhengyu Hu, Pang Wei Koh, Alexander Ratner.
 <br><ins>*NeurIPS 2023*</ins>
@@ -35,8 +35,7 @@ I am happy to mentor a few students on research and especially encourage student
 <br><ins>*NeurIPS 2023*</ins>
 - [DataComp: In Search of the Next Generation of Multimodal Datasets](https://arxiv.org/abs/2304.14108)
 <br>34 authors.
-<br><ins>*NeurIPS 2023*</ins>
-<br><font color=red>Oral Presentation</font>
+<br><ins>*NeurIPS 2023*</ins> <font color=red>Oral Presentation</font>
 - [Leveraging Instance Features for Label Aggregation in Programmatic Weak Supervision](https://arxiv.org/abs/2210.02724)
 <br>**Jieyu Zhang\***, Linxin Song\*, Alexander Ratner.
 <br><ins>*AISTATS 2023*</ins>
@@ -48,8 +47,7 @@ I am happy to mentor a few students on research and especially encourage student
 <br><ins>*ICLR 2022*</ins>
 - [WRENCH: A Comprehensive Benchmark for Weak Supervision](https://arxiv.org/abs/2109.11377)
 <br>**Jieyu Zhang**, Yue Yu, Yinghao Li, Yujing Wang, Yaming Yang, Mao Yang, Alexander Ratner.
-<br><ins>*NeurIPS 2021*</ins>
-<br><font color=red>Oral Presentation</font>
+<br><ins>*NeurIPS 2021*</ins> <font color=red>Oral Presentation</font>
 
 ### Before Ph.D.
 - [Taxonomy Completion via Triplet Matching Network](https://arxiv.org/abs/2101.01896)
@@ -57,8 +55,7 @@ I am happy to mentor a few students on research and especially encourage student
 <br><ins>*AAAI 2021*</ins>
 - [Co-Embedding Network Nodes and Hierarchical Labels with Taxonomy Based Generative Adversarial Networks](https://www.computer.org/csdl/proceedings-article/icdm/2020/831600a721/1r54IXOTRSg)
 <br>Carl Yang, **Jieyu Zhang**, Jiawei Han.
-<br><ins>*ICDM 2020*</ins>
-<br><font color=red>Best Paper</font>
+<br><ins>*ICDM 2020*</ins> <font color=red>Best Paper</font>
 
 ## 🎓 Education
 - University of Washington - Ph.D. in Computer Science  2020 - 2026 (expected). 

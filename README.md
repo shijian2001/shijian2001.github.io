@@ -2,7 +2,7 @@ I am a 4-th year Ph.D. student in Computer Science at the University of Washingt
 
 **Research Interests**: My current research interests are **interactive and data-centric AI/ML** with an emphasis on **faithful evaluation** and **effort-light approaches** with applications in chemistry, biology, physics, etc. My past explorations lay at the intersection of machine learning, data mining, and natural language processing.
 
-My research is supported by [2024 Apple Scholars in AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) (Data-centric AI track) and [OpenAI Superalignment Fellowship](https://openai.com/blog/superalignment-fast-grants).
+My research is supported by [2024 Apple AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) (Data-centric AI track) and [OpenAI Superalignment Fellowship](https://openai.com/blog/superalignment-fast-grants).
 
 I am happy to mentor a few students on research and especially encourage students from **underrepresented groups** to reach out.
 

@@ -76,10 +76,8 @@ I am happy to mentor a few students on research and especially encourage student
 - OpenAI Superalignment Fellowship
 - Apple Scholar in AI/ML PhD Fellowship
 - LLM Agents @ ICLR 2024 Best Paper Award
-- Jane Street Graduate Research Fellowship Honorable Mention
 - CRA Outstanding Undergraduate Researcher Honorable Mention
 - ICDM'20 Best Paper Award
-- ICDM'19 Student Travel Award
 - UIUC James Scholar Preble Research Award
 - UIUC John R. Pasta Outstanding Undergraduate Award
 

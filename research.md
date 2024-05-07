@@ -8,7 +8,7 @@
 <br>*LLM Agents @ ICLR 2024*
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
 <br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Awadallah, Ryen White, Doug Burger, Chi Wang
-<br><font color=red>Best Paper</font> <ins>*LLM Agents @ ICLR 2024*</ins>
+<br><ins>*LLM Agents @ ICLR 2024*</ins> <font color=red>Best Paper</font> 
 <br><a href="https://github.com/microsoft/autogen" style="color: red; text-decoration: underline">Github 22,000+ Star & 3,000+ Fork</a>
 
 ****
@@ -28,16 +28,14 @@
 <br>*NeurIPS 2023*
 - [WRENCH: A Comprehensive Benchmark for Weak Supervision](https://arxiv.org/abs/2109.11377)
 <br>**Jieyu Zhang**, Yue Yu, Yinghao Li, Yujing Wang, Yaming Yang, Mao Yang, Alexander Ratner.
-<br>*NeurIPS 2021*
-<br><font color=red>Oral Presentation</font>
+<br>*NeurIPS 2021* <font color=red>Oral Presentation</font>
 
 ****
 
 ### Data Selection / Generation
 - [DataComp: In Search of the Next Generation of Multimodal Datasets](https://arxiv.org/abs/2304.14108)
 <br>34 authors.
-<br>*NeurIPS 2023*
-<br><font color=red>Oral Presentation</font>
+<br>*NeurIPS 2023* <font color=red>Oral Presentation</font>
 - [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training](https://arxiv.org/abs/2305.12224)
 <br>**Jieyu Zhang\***, Bohan Wang\*, Zhengyu Hu, Pang Wei Koh, Alexander Ratner.
 <br>*NeurIPS 2023*

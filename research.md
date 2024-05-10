@@ -13,7 +13,7 @@
 
 ****
 
-### Benchmarks / Evaluation
+### Model Evaluation
 - [m&m's: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks](https://arxiv.org/abs/2403.11085)
 <br>Zixian Ma, Weikai Huang, **Jieyu Zhang**, Tanmay Gupta, Ranjay Krishna.
 - [SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models](https://arxiv.org/abs/2307.10635)
@@ -32,7 +32,7 @@
 
 ****
 
-### Data Selection / Generation
+### Data Curation
 - [DataComp: In Search of the Next Generation of Multimodal Datasets](https://arxiv.org/abs/2304.14108)
 <br>34 authors.
 <br>*NeurIPS 2023* <font color=red>Oral Presentation</font>

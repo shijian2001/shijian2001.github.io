@@ -23,9 +23,6 @@
 - [SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality](https://arxiv.org/abs/2306.14610)
 <br>Cheng-Yu Hsieh\*, **Jieyu Zhang\***, Zixian Ma, Aniruddha Kembhavi, Ranjay Krishna.
 <br>*NeurIPS 2023*
-- [Uncovering Neural Scaling Laws in Molecular Representation Learning](http://arxiv.org/abs/2309.15123)
-<br>Dingshuo Chen\*, Yanqiao Zhu\*, **Jieyu Zhang**, Yuanqi Du, Zhixun Li, Qiang Liu, Shu Wu, Liang Wang.
-<br>*NeurIPS 2023*
 - [WRENCH: A Comprehensive Benchmark for Weak Supervision](https://arxiv.org/abs/2109.11377)
 <br>**Jieyu Zhang**, Yue Yu, Yinghao Li, Yujing Wang, Yaming Yang, Mao Yang, Alexander Ratner.
 <br>*NeurIPS 2021* <font color=red>Oral Presentation</font>
@@ -42,12 +39,6 @@
 - [Large Language Model as Attributed Training Data Generator: A Tale of Diversity and Bias](https://arxiv.org/abs/2306.15895)
 <br>Yue Yu\*, Yuchen Zhuang\*, **Jieyu Zhang\***, Yu Meng, Alexander Ratner, Ranjay Krishna, Jiaming Shen, Chao Zhang.
 <br>*NeurIPS 2023*
-- [When to Learn What: Model-Adaptive Data Augmentation Curriculum](https://arxiv.org/abs/2309.04747)
-<br>Chengkai Hou=, **Jieyu Zhang**, Tianyi Zhou.
-<br>*ICCV 2023*
-- [Adaptive Ranking-based Sample Selection for Weakly Supervised Class-imbalanced Text Classification](https://aclanthology.org/2022.findings-emnlp.119/)
-<br>Linxin Song=, **Jieyu Zhang**, Tianxiang Yang, Masayuki Goto
-<br>*EMNLP 2022*
 
 ****
 

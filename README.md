@@ -18,9 +18,6 @@ I am happy to mentor a few students on research and especially encourage student
 - [Training Language Model Agents without Modifying Language Models](https://arxiv.org/abs/2402.11359)
 <br>Shaokun Zhang\*, **Jieyu Zhang\***, Jiale Liu, Linxin Song, Chi Wang, Ranjay Krishna, Qingyun Wu.
 <br><ins>*ICML 2024*</ins>
-- [EcoAssistant: Using LLM Assistant More Affordably and Accurately](https://arxiv.org/abs/2310.03046)
-<br>**Jieyu Zhang**, Ranjay Krishna, Ahmed Awadallah, Chi Wang.
-<br><ins>*LLM Agents @ ICLR 2024*</ins>
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
 <br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Awadallah, Ryen White, Doug Burger, Chi Wang
 <br><ins>*LLM Agents @ ICLR 2024*</ins> <font color=red>Best Paper</font> 

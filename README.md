@@ -15,7 +15,7 @@ I am happy to mentor a few students on research and especially encourage student
 (\* denotes equal contribution)
 
 ### Peer-reviewed
-- [Training Language Model Agents without Modifying Language Models](https://arxiv.org/abs/2402.11359)
+- [Offline Training of Language Model Agents with Functions as Learnable Weights](https://arxiv.org/abs/2402.11359)
 <br>Shaokun Zhang\*, **Jieyu Zhang\***, Jiale Liu, Linxin Song, Chi Wang, Ranjay Krishna, Qingyun Wu.
 <br><ins>*ICML 2024*</ins>
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)

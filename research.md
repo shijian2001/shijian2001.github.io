@@ -1,5 +1,7 @@
 (\* denotes equal contribution, = denotes student I mentor)
 ### AI Agents
+- [Adaptive In-conversation Team Building for Language Model Agents](https://arxiv.org/abs/2405.19425)
+<br>Linxin Song, Jiale Liu, **Jieyu Zhang**, Shaokun Zhang, Ao Luo, Shijian Wang, Qingyun Wu, Chi Wang.
 - [Training Language Model Agents without Modifying Language Models](https://arxiv.org/abs/2402.11359)
 <br>Shaokun Zhang\*, **Jieyu Zhang\***, Jiale Liu, Linxin Song, Chi Wang, Ranjay Krishna, Qingyun Wu.
 <br>*ICML 2024*

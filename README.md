@@ -14,6 +14,10 @@ I am happy to mentor a few students on research and especially encourage student
 ## 📝 Selected Publications
 (\* denotes equal contribution)
 
+### Preprint
+- [Task Me Anything]()
+<br>**Jieyu Zhang**, Weikai Huang\*, Zixian Ma\*, Oscar Michel, Dong He, Tanmay Gupta, Wei-Chiu Ma, Ali Farhadi, Aniruddha Kembhavi, Ranjay Krishna.
+
 ### Peer-reviewed
 - [Offline Training of Language Model Agents with Functions as Learnable Weights](https://arxiv.org/abs/2402.11359)
 <br>Shaokun Zhang\*, **Jieyu Zhang\***, Jiale Liu, Linxin Song, Chi Wang, Ranjay Krishna, Qingyun Wu.

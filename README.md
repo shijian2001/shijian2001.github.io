@@ -36,9 +36,6 @@ I am happy to mentor a few students on research and especially encourage student
 - [Large Language Model as Attributed Training Data Generator: A Tale of Diversity and Bias](https://arxiv.org/abs/2306.15895)
 <br>Yue Yu\*, Yuchen Zhuang\*, **Jieyu Zhang\***, Yu Meng, Alexander Ratner, Ranjay Krishna, Jiaming Shen, Chao Zhang.
 <br><ins>*NeurIPS 2023*</ins>
-- [DataComp: In Search of the Next Generation of Multimodal Datasets](https://arxiv.org/abs/2304.14108)
-<br>34 authors.
-<br><ins>*NeurIPS 2023*</ins> <font color=red>Oral Presentation</font>
 - [Leveraging Instance Features for Label Aggregation in Programmatic Weak Supervision](https://arxiv.org/abs/2210.02724)
 <br>**Jieyu Zhang\***, Linxin Song\*, Alexander Ratner.
 <br><ins>*AISTATS 2023*</ins>

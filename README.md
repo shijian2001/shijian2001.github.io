@@ -15,7 +15,7 @@ I am happy to mentor a few students on research and especially encourage student
 (\* denotes equal contribution)
 
 ### Preprint
-- [Task Me Anything]()
+- [Task Me Anything](https://arxiv.org/abs/2406.11775)
 <br>**Jieyu Zhang**, Weikai Huang\*, Zixian Ma\*, Oscar Michel, Dong He, Tanmay Gupta, Wei-Chiu Ma, Ali Farhadi, Aniruddha Kembhavi, Ranjay Krishna.
 
 ### Peer-reviewed

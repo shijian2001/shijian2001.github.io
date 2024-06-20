@@ -1,5 +1,5 @@
 (\* denotes equal contribution, = denotes student I mentor)
-### AI Agents
+### Agentic AI
 - [Adaptive In-conversation Team Building for Language Model Agents](https://arxiv.org/abs/2405.19425)
 <br>Linxin Song, Jiale Liu, **Jieyu Zhang**, Shaokun Zhang, Ao Luo, Shijian Wang, Qingyun Wu, Chi Wang.
 - [Offline Training of Language Model Agents with Functions as Learnable Weights](https://arxiv.org/abs/2402.11359)
@@ -35,7 +35,7 @@
 
 ****
 
-### Data Curation
+### Dataset Curation
 - [DataComp: In Search of the Next Generation of Multimodal Datasets](https://arxiv.org/abs/2304.14108)
 <br>34 authors.
 <br>*NeurIPS 2023* <font color=red>Oral Presentation</font>

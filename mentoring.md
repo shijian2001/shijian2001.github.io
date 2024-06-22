@@ -1,15 +1,13 @@
 ## Mentees
-- [Zhengyu Hu](https://ppsmk388.github.io)
-<br>outcome: 1\*KDD
-- [Chengkai Hou](https://jackhck.github.io/) 
-<br>[MS@Jilin university, looking for PhD position starting in fall'25]
-<br>outcome: 2\*ICCV
-- [Linxin Song](https://linxins97.github.io/) 
+- Zhengyu Hu
+- Chengkai Hou
+- Linxin Song 
 <br>[MS@Waseda University -> PhD@USC]
-<br>outcome: 1\*EMNLP, 1\*AISTATS
-- [Minhao Jiang](https://minhaoj2.github.io/) 
+- Jinyan Su 
+<br>[Undergrad@UESTC -> PhD@Cornell]
+- Mandy Wang 
+<br>[Undergrad@UIUC -> PhD@UCLA]
+- Minhao Jiang 
 <br>[Undergrad@UIUC -> MS@UIUC]
-<br>outcome: 1\*WWW
-- [Xiangchen Song](https://xiangchensong.github.io/) 
+- Xiangchen Song 
 <br>[Undergrad@UIUC -> PhD@CMU]
-<br>outcome: 1\*WWW, 1\*AAAI

@@ -22,6 +22,7 @@
 <br>**Jieyu Zhang**, Weikai Huang\*, Zixian Ma\*, Oscar Michel, Dong He, Tanmay Gupta, Wei-Chiu Ma, Ali Farhadi, Aniruddha Kembhavi, Ranjay Krishna.
 - [m&m's: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks](https://arxiv.org/abs/2403.11085)
 <br>Zixian Ma, Weikai Huang, **Jieyu Zhang**, Tanmay Gupta, Ranjay Krishna.
+<br>*ECCV 2024*
 - [SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models](https://arxiv.org/abs/2307.10635)
 <br>Xiaoxuan Wang\*, Ziniu Hu\*, Pan Lu\*, Yanqiao Zhu\*, **Jieyu Zhang**, Satyen Subramaniam, Arjun R. Loomba, Shichang Zhang, Yizhou Sun, Wei Wang
 <br>*ICML 2024*

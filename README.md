@@ -4,7 +4,11 @@ I'm a 4-th year Ph.D. student in Computer Science at the University of Washingto
 
 My research is supported by [2024 Apple AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) (Data-centric AI track) and [OpenAI Superalignment Fellowship](https://openai.com/blog/superalignment-fast-grants).
 
-I'm passionate about mentoring and teaching. I was a co-instructor of **CSE 455: Computer Vision (undergrad)** and TA of **CS 344: Introduction to Data Management (undergrad)** and **CS 599C: Training Data Management & Weak Supervision (grad)**. I was also a mentor of **CSE 492 R: CSE Group Research (undergrad)**.
+I'm passionate about mentoring and teaching. I was 
+- co-instructor of **CSE 455: Computer Vision (undergrad)**
+- TA of **CS 344: Introduction to Data Management (undergrad)**
+- TA of **CS 599C: Training Data Management & Weak Supervision (grad)**
+- mentor of **CSE 492 R: CSE Group Research (undergrad)**.
 
 I'm happy to mentor a few students on research and especially encourage students from **underrepresented groups** to reach out.
 

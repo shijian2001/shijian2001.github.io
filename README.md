@@ -93,4 +93,3 @@ I'm happy to mentor a few students on research and especially encourage students
 
 ## 📫 Contact
 Email: jieyuz2@cs.washington.edu
-<br>Twitter: [@JieyuZhang20](https://twitter.com/JieyuZhang20)

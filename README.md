@@ -10,7 +10,7 @@ I'm passionate about mentoring and teaching. I was
 - TA of **CS 599C: Training Data Management & Weak Supervision (grad)**
 - mentor of **CSE 492 R: CSE Group Research (undergrad)**.
 
-I'm happy to mentor a few students on research and especially encourage students from **underrepresented groups** to reach out.
+I'm happy to mentor a few students on research and especially encourage students from **underrepresented groups** to reach out. If you are a junior student and want to discuss research and/or look for advice, feel free to schedule a chat via this [link](https://calendly.com/jieyuzhang97/30min).
 
 ## 📑 AutoGen Blogs
 - [AgentOptimizer: An Agentic Way to Train Your LLM Agent](https://microsoft.github.io/autogen/blog/2023/12/23/AgentOptimizer)

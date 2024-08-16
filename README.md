@@ -1,4 +1,4 @@
-I'm a 4-th year Ph.D. student in Computer Science at the University of Washington, Seattle, advised by Prof. [Ranjay Krishna](http://www.ranjaykrishna.com/index.html) and Prof. [Alex Ratner](https://ajratner.github.io/). Before that, I was an undergraduate student in Computer Science at the University of Illinois Urbana-Champaign, where I was fortunate to be advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). In the past, I spent time at Microsoft Research and ByteDance AI Lab. 
+I'm a 4-th year Ph.D. student in Computer Science at the University of Washington, Seattle, advised by Prof. [Ranjay Krishna](http://www.ranjaykrishna.com/index.html) and Prof. [Alex Ratner](https://ajratner.github.io/). Before that, I was an undergraduate student in Computer Science at the University of Illinois Urbana-Champaign, where I was fortunate to be advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/).
 
 **Research Interests**: My current research interests are **interactive and data-centric AI/ML** with an emphasis on **faithful evaluation** and **effort-light approaches** with applications in chemistry, biology, physics, etc. My past explorations lay at the intersection of machine learning, data mining, and natural language processing.
 
@@ -68,15 +68,14 @@ I'm happy to mentor a few students on research and especially encourage students
 - University of Illinois Urbana-Champaign - B.S. in Statistics and Computer Science. 
 
 ## 👨‍💻 Industrial Experience
+- Salesforce Research - Research Intern
+<br> 2024.06-2024.12
 - Microsoft Research (Redmond) - Research Intern
 <br> 2023.06-2023.9
-<br> Supervised by Dr. [Chi Wang](https://www.microsoft.com/en-us/research/people/chiw/) and Dr. [Ahmed H. Awadallah](https://www.microsoft.com/en-us/research/people/hassanam/).
 - Microsoft Research (Asia) - Star Bridge Research Assistant
 <br> 2020.09-2021.12
-<br> Supervised by Dr. [Yujing Wang](https://scholar.google.com/citations?user=YgL4rywAAAAJ&hl=en).
 - ByteDance AI Lab - Research Intern
 <br> 2020.04-2020.09
-<br> Supervised by Prof. [Lei Li](https://lileicc.github.io/).
 
 ## 🏅 Awards
 - OpenAI Superalignment Fellowship

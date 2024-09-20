@@ -69,7 +69,7 @@ I'm happy to mentor a few students on research and especially encourage students
 
 ## 👨‍💻 Industrial Experience
 - Salesforce Research - Research Intern
-<br> 2024.06-2024.12
+<br> 2024.06-2024.8
 - Microsoft Research (Redmond) - Research Intern
 <br> 2023.06-2023.9
 - Microsoft Research (Asia) - Star Bridge Research Assistant

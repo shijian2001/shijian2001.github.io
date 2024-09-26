@@ -1,17 +1,20 @@
 (\* denotes equal contribution, = denotes student I mentor)
 
 ### Preprint
-- [Task Me Anything](https://arxiv.org/abs/2406.11775)
-<br>**Jieyu Zhang**, Weikai Huang\*, Zixian Ma\*, Oscar Michel, Dong He, Tanmay Gupta, Wei-Chiu Ma, Ali Farhadi, Aniruddha Kembhavi, Ranjay Krishna.
+
 - [xGen-MM (BLIP-3): A Family of Open Large Multimodal Models](https://arxiv.org/abs/2408.08872)
 <br>Le Xue, Manli Shu, Anas Awadalla, Jun Wang, An Yan, Senthil Purushwalkam, Honglu Zhou, Viraj Prabhu, Yutong Dai, Michael S Ryoo, Shrikant Kendre, **Jieyu Zhang**, Can Qin, Shu Zhang, Chia-Chih Chen, Ning Yu, Juntao Tan, Tulika Manoj Awalgaonkar, Shelby Heinecke, Huan Wang, Yejin Choi, Ludwig Schmidt, Zeyuan Chen, Silvio Savarese, Juan Carlos Niebles, Caiming Xiong, Ran Xu.
-- [DataComp-LM: In search of the next generation of training sets for language models](https://arxiv.org/abs/2406.11794)
-<br>59 authors.
 - [Adaptive In-conversation Team Building for Language Model Agents](https://arxiv.org/abs/2405.19425)
 <br>Linxin Song, Jiale Liu, **Jieyu Zhang**, Shaokun Zhang, Ao Luo, Shijian Wang, Qingyun Wu, Chi Wang.
 
 ### 2024
 
+- [Task Me Anything](https://arxiv.org/abs/2406.11775)
+<br>**Jieyu Zhang**, Weikai Huang\*, Zixian Ma\*, Oscar Michel, Dong He, Tanmay Gupta, Wei-Chiu Ma, Ali Farhadi, Aniruddha Kembhavi, Ranjay Krishna.
+<br>*NeurIPS 2024*
+- [DataComp-LM: In search of the next generation of training sets for language models](https://arxiv.org/abs/2406.11794)
+<br>59 authors.
+<br>*NeurIPS 2024*
 - [m&m's: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks](https://arxiv.org/abs/2403.11085)
 <br>Zixian Ma, Weikai Huang, **Jieyu Zhang**, Tanmay Gupta, Ranjay Krishna.
 <br>*ECCV 2024*

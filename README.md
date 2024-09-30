@@ -17,13 +17,10 @@ I'm happy to mentor a few students on research and especially encourage students
 - [Agent AutoBuild: Automatically Building Multi-agent Systems](https://microsoft.github.io/autogen/blog/2023/11/26/Agent-AutoBuild)
 - [EcoAssistant: Using LLM Assistant More Affordably and Accurately](https://microsoft.github.io/autogen/blog/2023/11/09/EcoAssistant)
 
-## 📝 Selected Publications
+## 📝 Selected Research
 (\* denotes equal contribution)
 
-### Peer-reviewed
-- [Task Me Anything](https://arxiv.org/abs/2406.11775)
-<br>**Jieyu Zhang**, Weikai Huang\*, Zixian Ma\*, Oscar Michel, Dong He, Tanmay Gupta, Wei-Chiu Ma, Ali Farhadi, Aniruddha Kembhavi, Ranjay Krishna.
-<br><ins>*NeurIPS 2024*</ins>
+### Agentic AI
 - [Offline Training of Language Model Agents with Functions as Learnable Weights](https://arxiv.org/abs/2402.11359)
 <br>Shaokun Zhang\*, **Jieyu Zhang\***, Jiale Liu, Linxin Song, Chi Wang, Ranjay Krishna, Qingyun Wu.
 <br><ins>*ICML 2024*</ins>
@@ -32,6 +29,11 @@ I'm happy to mentor a few students on research and especially encourage students
 <br><ins>*COLM 2024*</ins> | <ins>*LLM Agents @ ICLR 2024*</ins> <font color=red>Best Paper</font>
 <br><a href="https://www.economist.com/science-and-technology/2024/05/13/todays-ai-models-are-impressive-teams-of-them-will-be-formidable" style="color: red; text-decoration: underline">The Economist article</a>
 <br><a href="https://www.forbes.com/sites/joannechen/2024/05/24/the-promise-of-multi-agent-ai/?sh=2c1e4f454d97" style="color: red; text-decoration: underline">The Forbes article</a>
+
+### Data-centric AI
+- [Task Me Anything](https://arxiv.org/abs/2406.11775)
+<br>**Jieyu Zhang**, Weikai Huang\*, Zixian Ma\*, Oscar Michel, Dong He, Tanmay Gupta, Wei-Chiu Ma, Ali Farhadi, Aniruddha Kembhavi, Ranjay Krishna.
+<br><ins>*NeurIPS 2024*</ins>
 - [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training](https://arxiv.org/abs/2305.12224)
 <br>**Jieyu Zhang\***, Bohan Wang\*, Zhengyu Hu, Pang Wei Koh, Alexander Ratner.
 <br><ins>*NeurIPS 2023*</ins>

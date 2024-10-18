@@ -9,7 +9,7 @@ I'm passionate about mentoring and teaching. I was
 - TA of **CS 344: Introduction to Data Management (undergrad)**
 - TA of **CS 599C: Training Data Management & Weak Supervision (grad)**
 - mentor of **CSE 492 R: CSE Group Research (undergrad)**.
-- mentor of **CSE [Pre-Application Mentorship Service (PAMS)](https://www.cs.washington.edu/academics/phd/admissions/pams) program**
+- mentor of **UW CSE [Pre-Application Mentorship Service (PAMS)](https://www.cs.washington.edu/academics/phd/admissions/pams) program**
 
 I'm happy to mentor a few students on research and especially encourage students from **underrepresented groups** to reach out. If you are a junior student and want to discuss research and/or look for advice, feel free to schedule a chat via this [link](https://calendly.com/jieyuzhang97/30min).
 

@@ -1,6 +1,8 @@
 (\* denotes equal contribution, = denotes student I mentor)
 
 ### Preprint
+- [Language Model Preference Evaluation with Multiple Weak Evaluators](https://arxiv.org/abs/2410.12869)
+<br>Zhengyu Hu=, **Jieyu Zhang**, Zhihan Xiong, Alexander Ratner, Hui Xiong, Ranjay Krishna.
 - [Adaptive In-conversation Team Building for Language Model Agents](https://arxiv.org/abs/2405.19425)
 <br>Linxin Song, Jiale Liu, **Jieyu Zhang**, Shaokun Zhang, Ao Luo, Shijian Wang, Qingyun Wu, Chi Wang.
 

@@ -1,6 +1,7 @@
 ## Mentees
 - Zhengyu Hu
 - Chengkai Hou
+<br>[MS@Jilin University -> PhD@PKU]
 - Linxin Song 
 <br>[MS@Waseda University -> PhD@USC]
 - Jinyan Su 

@@ -1,10 +1,12 @@
 (\* denotes equal contribution, = denotes student I mentor)
 
 ### Preprint
+- [EcoAct: Economic Agent Determines When to Register What Action](https://arxiv.org/abs/2411.01643)
+<br>Shaokun Zhang, **Jieyu Zhang**, Dujian Ding, Mirian Hipolito Garcia, Ankur Mallick, Daniel Madrigal, Menglin Xia, Victor Rühle, Qingyun Wu, Chi Wang.
 - [Language Model Preference Evaluation with Multiple Weak Evaluators](https://arxiv.org/abs/2410.12869)
 <br>Zhengyu Hu=, **Jieyu Zhang**, Zhihan Xiong, Alexander Ratner, Hui Xiong, Ranjay Krishna.
 - [Adaptive In-conversation Team Building for Language Model Agents](https://arxiv.org/abs/2405.19425)
-<br>Linxin Song, Jiale Liu, **Jieyu Zhang**, Shaokun Zhang, Ao Luo, Shijian Wang, Qingyun Wu, Chi Wang.
+<br>Linxin Song*, Jiale Liu*, **Jieyu Zhang**, Shaokun Zhang, Ao Luo, Shijian Wang, Qingyun Wu, Chi Wang.
 
 ### 2024
 - [Task Me Anything](https://arxiv.org/abs/2406.11775)

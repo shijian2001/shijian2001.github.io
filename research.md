@@ -9,7 +9,7 @@
 ### 2024
 - [Task Me Anything](https://arxiv.org/abs/2406.11775)
 <br>**Jieyu Zhang**, Weikai Huang\*, Zixian Ma\*, Oscar Michel, Dong He, Tanmay Gupta, Wei-Chiu Ma, Ali Farhadi, Aniruddha Kembhavi, Ranjay Krishna.
-<br>*NeurIPS 2024* | <ins>*Workshop on Video-Language Models @ NeurIPS 2024*</ins>  <font color=red>Oral Presentation</font>
+<br>*NeurIPS 2024* | <ins>*Video-Language Models @ NeurIPS 2024*</ins>  <font color=red>Oral Presentation</font>
 <br><a href="https://snorkel.ai/blog/task-me-anything-innovating-multimodal-model-benchmarks/" style="color: red; text-decoration: underline">Blog at Snorkel AI</a> | <a href="https://www.youtube.com/watch?v=J3ECnV8Yc_g" style="color: red; text-decoration: underline">Talk at Snorkel AI</a>
 - [DataComp-LM: In search of the next generation of training sets for language models](https://arxiv.org/abs/2406.11794)
 <br>59 authors.

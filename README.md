@@ -1,6 +1,6 @@
 I'm a 5-th year Ph.D. student in Computer Science at the University of Washington, Seattle, advised by Prof. [Ranjay Krishna](http://www.ranjaykrishna.com/index.html) and Prof. [Alex Ratner](https://ajratner.github.io/). Before that, I was an undergraduate student in Computer Science at the University of Illinois Urbana-Champaign, where I was fortunate to be advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/).
 
-**Research Interests**: My current research interests are **interactive and data-centric AI/ML** with an emphasis on **faithful evaluation** and **effort-light approaches** with applications in natural language processing, computer vision, foundation models, science, etc. I have contributed to many exciting projects including [AutoGen](https://arxiv.org/abs/2308.08155), [DataComp](https://arxiv.org/abs/2304.14108), and [BLIP3](https://arxiv.org/abs/2408.08872).
+**Research Interests**: My current research interests are **interactive and data-centric AI/ML** with an emphasis on **faithful evaluation** and **effort-light approaches** with applications in natural language processing, computer vision, foundation models, science, etc. I have contributed to many exciting projects including [AutoGen](https://microsoft.github.io/autogen/0.2/)/[AG2](https://ag2.ai/), [DataComp/DataComp-LM](https://www.datacomp.ai/), and [BLIP3](https://huggingface.co/papers/2408.08872).
 
 My research is supported by [2024 Apple AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) (Data-centric AI track) and [OpenAI Superalignment Fellowship](https://openai.com/blog/superalignment-fast-grants).
 
@@ -13,7 +13,8 @@ I'm passionate about mentoring and teaching. I was
 
 I'm happy to mentor a few students on research and especially encourage students from **underrepresented groups** to reach out. If you are a junior student and want to discuss research and/or look for advice, feel free to schedule a chat via this [link](https://calendly.com/jieyuzhang97/30min).
 
-## 📑 AutoGen Blogs
+## 📑 AI Agent Blogs
+- [Introducing CaptainAgent for Adaptive Team Building](https://ag2ai.github.io/ag2/blog/2024/11/15/CaptainAgent)
 - [AgentOptimizer: An Agentic Way to Train Your LLM Agent](https://microsoft.github.io/autogen/blog/2023/12/23/AgentOptimizer)
 - [Agent AutoBuild: Automatically Building Multi-agent Systems](https://microsoft.github.io/autogen/blog/2023/11/26/Agent-AutoBuild)
 - [EcoAssistant: Using LLM Assistant More Affordably and Accurately](https://microsoft.github.io/autogen/blog/2023/11/09/EcoAssistant)

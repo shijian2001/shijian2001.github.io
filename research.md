@@ -3,6 +3,8 @@
 ### Preprint
 - [ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models]()
 <br>**Jieyu Zhang**, Le Xue, Linxin Song, Jun Wang, Weikai Huang, Manli Shu, An Yan, Zixian Ma, Juan Carlos Niebles, silvio savarese, Caiming Xiong, Zeyuan Chen, Ranjay Krishna, Ran Xu.
+- [TACO: Learning Multi-modal Action Models with Synthetic Chains-of-Thought-and-Action](https://arxiv.org/abs/2412.05479)
+<br>Zixian Ma, Jianguo Zhang, Zhiwei Liu, **Jieyu Zhang**, Juntao Tan, Manli Shu, Juan Carlos Niebles, Shelby Heinecke, Huan Wang, Caiming Xiong, Ranjay Krishna, Silvio Savarese.
 - [EcoAct: Economic Agent Determines When to Register What Action](https://arxiv.org/abs/2411.01643)
 <br>Shaokun Zhang, **Jieyu Zhang**, Dujian Ding, Mirian Hipolito Garcia, Ankur Mallick, Daniel Madrigal, Menglin Xia, Victor Rühle, Qingyun Wu, Chi Wang.
 - [Language Model Preference Evaluation with Multiple Weak Evaluators](https://arxiv.org/abs/2410.12869)

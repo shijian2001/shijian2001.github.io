@@ -1,7 +1,7 @@
 (\* denotes equal contribution, = denotes student I mentor)
 
 ### Preprint
-- [ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models]()
+- [ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models](http://arxiv.org/abs/2412.07012)
 <br>**Jieyu Zhang**, Le Xue, Linxin Song, Jun Wang, Weikai Huang, Manli Shu, An Yan, Zixian Ma, Juan Carlos Niebles, silvio savarese, Caiming Xiong, Zeyuan Chen, Ranjay Krishna, Ran Xu.
 - [TACO: Learning Multi-modal Action Models with Synthetic Chains-of-Thought-and-Action](https://arxiv.org/abs/2412.05479)
 <br>Zixian Ma, Jianguo Zhang, Zhiwei Liu, **Jieyu Zhang**, Juntao Tan, Manli Shu, Juan Carlos Niebles, Shelby Heinecke, Huan Wang, Caiming Xiong, Ranjay Krishna, Silvio Savarese.

@@ -1,4 +1,8 @@
 ## Mentees
+- Ziqi Gao
+- Weikai Huang
+- Ben Caffee
+- Rishi Bathina
 - Zhengyu Hu
 - Chengkai Hou
 <br>[MS@Jilin University -> PhD@PKU]

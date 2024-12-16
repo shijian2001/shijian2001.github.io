@@ -16,7 +16,7 @@ My current research interests are **Data-Centric AI/ML** with an emphasis on **C
 - [Adaptive In-conversation Team Building for Language Model Agents](https://arxiv.org/abs/2405.19425)
 <br>Linxin Song\*, Jiale Liu\*, Jieyu Zhang, Shaokun Zhang, Ao Luo, **Shijian Wang**, Qingyun Wu, Chi Wang<be>
 - [Attributed Synthetic Data Generation for Zero-shot Image Classification](https://openreview.net/pdf?id=k4Xnh0EPus)
-<br>**Shijian Wang**, Linxin Song, Ryotaro Shimizu, Masayuki Goto, Hanqian Wu<br>
+<br>**Shijian Wang**, Linxin Song, Ryotaro Shimizu, Masayuki Goto, Hanqian Wu<br><ins>*CVPR@SynData4CV 2024*</ins>
 
 ## 🏅 Awards
 - Southeast University First-Class Scholarship 2023-2024

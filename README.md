@@ -3,7 +3,7 @@ I'm a 2-nd year M.S. student in Computer Science at Southeast University, advise
 ## 😄 Research Interests
 My research interests are **Data-Centric AI** with an emphasis on **Computer Vision**, **Large Language Models**, and **Large Multimodal Models**.
 
-*If you want to discuss relevant research topics or potential collaborations, feel free to send me an [email](shijian@seu.edu.cn).*
+*If you want to discuss relevant research topics or potential collaborations, feel free to send me an email.*
 
 ## 📢 News
 [12/12/2024] A new preprint is released! Check [Template Matters: Understanding the Role of Instruction Templates in Multimodal Language Model Evaluation and Training](https://arxiv.org/abs/2412.08307) for more details!

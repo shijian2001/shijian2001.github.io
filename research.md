@@ -1,4 +1,4 @@
-(\* denotes equal contribution, = denotes student I mentor)
+(\* denotes equal contribution)
 
 ### Preprint
 - [Understanding the Role of Instruction Templates in Multimodal Language Model Evaluation and Training](https://arxiv.org/abs/2412.08307)

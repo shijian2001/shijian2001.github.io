@@ -22,7 +22,7 @@ My research interests are **Data-Centric AI** with an emphasis on **Computer Vis
 - Southeast University First-Class Scholarship 2023-2024
   
 ## 📍 Professional Services
-- Reviewer: CVPR@SynData4CV 2024, ICASSP 2025, AISTATS 2025.
+- Reviewer: CVPR@SynData4CV 2024, ICLR@DATA-FM 2025, ICASSP 2025, ICME 2025, AISTATS 2025
 
 ## 📫 Contact
 Email: shijian@seu.edu.cn

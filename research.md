@@ -9,5 +9,5 @@
 ****
 
 ### 2024
-- [Attributed Synthetic Data Generation for Zero-shot Image Classification](https://openreview.net/pdf?id=k4Xnh0EPus)
-<br>**Shijian Wang**, Linxin Song, Ryotaro Shimizu, Masayuki Goto, Hanqian Wu<br><ins>*CVPR@SynData4CV 2024*</ins>
+- [Attributed Synthetic Data Generation for Domain-specific Zero-shot Image Classification](https://openreview.net/pdf?id=k4Xnh0EPus)
+<br>**Shijian Wang**, Linxin Song, Ryotaro Shimizu, Masayuki Goto, Hanqian Wu<br><ins>*ICME 2025*</ins>

@@ -26,5 +26,9 @@ My research interests are **Data-Centric AI** with an emphasis on **Computer Vis
 ## 📍 Professional Services
 - Reviewer: CVPR@SynData4CV 2024, ICLR@DATA-FM 2025, ICASSP 2025, ICME 2025, AISTATS 2025
 
+## 👨‍💻 Industrial Experience
+- Xiaohongshu - Research Intern
+<br> 2025.03-Present
+
 ## 📫 Contact
 Email: shijian@seu.edu.cn

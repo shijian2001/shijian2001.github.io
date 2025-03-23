@@ -17,7 +17,7 @@ My research interests are **Data-Centric AI** with an emphasis on **Computer Vis
 <br>**Shijian Wang\***, Linxin Song\*, Jieyu Zhang, Ryotaro Shimizu, Ao Luo, Li Yao, Cunjian Chen, Julian McAuley, Haiqian Wu<br><ins>*ICLR@DATA-FM 2025*</ins>
 - [Adaptive In-conversation Team Building for Language Model Agents](https://arxiv.org/abs/2405.19425)
 <br>Linxin Song\*, Jiale Liu\*, Jieyu Zhang, Shaokun Zhang, Ao Luo, **Shijian Wang**, Qingyun Wu, Chi Wang<be>
-- [Attributed Synthetic Data Generation for Domain-specific Zero-shot Image Classification]()
+- [Attributed Synthetic Data Generation for Zero-shot Domain-specific Image Classification]()
 <br>**Shijian Wang**, Linxin Song, Ryotaro Shimizu, Masayuki Goto, Hanqian Wu<br><ins>*ICME 2025*</ins>
 
 ## 🏅 Awards

@@ -10,4 +10,4 @@
 
 ### 2024
 - [Attributed Synthetic Data Generation for Zero-shot Domain-specific Image Classification](https://arxiv.org/abs/2504.04510)
-<br>**Shijian Wang**, Linxin Song, Ryotaro Shimizu, Masayuki Goto, Hanqian Wu<br><ins>*ICME 2025* | <font color=red>Oral Presentation</font> [top 15%]</ins>
+<br>**Shijian Wang**, Linxin Song, Ryotaro Shimizu, Masayuki Goto, Hanqian Wu<br><ins>*ICME 2025* | <font color=red>Oral Presentation [top 15%]</font></ins>

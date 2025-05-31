@@ -6,7 +6,7 @@ My research interest is **Data-Centric AI** with emphasis on **Large Language Mo
 *If you want to discuss relevant research topics or potential collaborations, feel free to send me an email.*
 
 ## 📢 News
-[05/31/2025] Our paper [Attributed Synthetic Data Generation for Domain-specific Zero-shot Image Classification](https://arxiv.org/abs/2504.04510) got accepted as an **Oral Presentation (top 15%)** at ICME 2025!
+[05/31/2025] Our paper [Attributed Synthetic Data Generation for Zero-shot Domain-specific Image Classification](https://arxiv.org/abs/2504.04510) got accepted as an **Oral Presentation (top 15%)** at ICME 2025!
 
 [04/08/2025] A new preprint is released! Check [Investigating the Scaling Effect of Instruction Templates for Training Multimodal Language Model](https://arxiv.org/abs/2412.08307) for more details!
 

@@ -6,9 +6,9 @@ My research interest is **Data-Centric AI** with an emphasis on **Large Language
 *If you want to discuss relevant research topics or potential collaborations, feel free to send me an email.*
 
 ## 📢 News
-[04/08/2025] A new preprint is released! Check [Investigating the Scaling Effect of Instruction Templates for Training Multimodal Language Model](https://arxiv.org/abs/2412.08307) for more details!
+[05/31/2025] Our paper [Attributed Synthetic Data Generation for Domain-specific Zero-shot Image Classification](https://arxiv.org/abs/2504.04510) got accepted as an **Oral Presentation (top 15%)** at ICME 2025!
 
-[03/21/2025] Our paper [Attributed Synthetic Data Generation for Domain-specific Zero-shot Image Classification](https://arxiv.org/abs/2504.04510) got accepted at ICME 2025!
+[04/08/2025] A new preprint is released! Check [Investigating the Scaling Effect of Instruction Templates for Training Multimodal Language Model](https://arxiv.org/abs/2412.08307) for more details!
 
 ## 📝 Selected Research
 (\* denotes equal contribution)
@@ -18,7 +18,7 @@ My research interest is **Data-Centric AI** with an emphasis on **Large Language
 - [Adaptive In-conversation Team Building for Language Model Agents](https://arxiv.org/abs/2405.19425)
 <br>Linxin Song\*, Jiale Liu\*, Jieyu Zhang, Shaokun Zhang, Ao Luo, **Shijian Wang**, Qingyun Wu, Chi Wang<be>
 - [Attributed Synthetic Data Generation for Zero-shot Domain-specific Image Classification](https://arxiv.org/abs/2504.04510)
-<br>**Shijian Wang**, Linxin Song, Ryotaro Shimizu, Masayuki Goto, Hanqian Wu<br><ins>*ICME 2025*</ins>
+<br>**Shijian Wang**, Linxin Song, Ryotaro Shimizu, Masayuki Goto, Hanqian Wu<br><ins>*ICME 2025 Oral[15%]*</ins>
 
 ## 🏅 Awards
 - Southeast University First-Class Scholarship 2023-2024

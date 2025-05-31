@@ -18,13 +18,13 @@ My research interest is **Data-Centric AI** with an emphasis on **Large Language
 - [Adaptive In-conversation Team Building for Language Model Agents](https://arxiv.org/abs/2405.19425)
 <br>Linxin Song\*, Jiale Liu\*, Jieyu Zhang, Shaokun Zhang, Ao Luo, **Shijian Wang**, Qingyun Wu, Chi Wang<be>
 - [Attributed Synthetic Data Generation for Zero-shot Domain-specific Image Classification](https://arxiv.org/abs/2504.04510)
-<br>**Shijian Wang**, Linxin Song, Ryotaro Shimizu, Masayuki Goto, Hanqian Wu<br><ins>*ICME 2025* | <font color=red>Oral Presentation</font> [top 15%]</ins>
+<br>**Shijian Wang**, Linxin Song, Ryotaro Shimizu, Masayuki Goto, Hanqian Wu<br><ins>*ICME 2025* | <font color=red>Oral Presentation [top 15%]</font></ins>
 
 ## 🏅 Awards
 - Southeast University First-Class Scholarship 2023-2024
   
 ## 📍 Professional Services
-- Reviewer: CVPR@SynData4CV 2024, ICLR@DATA-FM 2025, ICASSP 2025, ICME 2025, AISTATS 2025
+- Reviewer: COLM 2025, AISTATS 2025, ICME 2025, ICASSP 2025, CVPR@SynData4CV 2024/2025, ICLR@DATA-FM 2025
 
 ## 👨‍💻 Industrial Experience
 - Xiaohongshu - Research Intern

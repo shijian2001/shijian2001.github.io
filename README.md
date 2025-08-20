@@ -16,7 +16,7 @@ My research interest is **Data-Centric AI** with emphasis on **Large Multimodal 
 - [Investigating the Scaling Effect of Instruction Templates for Training Multimodal Language Model](https://arxiv.org/abs/2412.08307)
 <br>**Shijian Wang\***, Linxin Song\*, Jieyu Zhang, Ryotaro Shimizu, Jiarui Jin, Ao Luo, Yuan Lu, Li Yao, Cunjian Chen, Julian McAuley, Wentao Zhang, Hanqian Wu<br><ins>*ICLR@DATA-FM 2025*</ins>
 - [Adaptive In-conversation Team Building for Language Model Agents](https://arxiv.org/abs/2405.19425)
-<br>Linxin Song\*, Jiale Liu\*, Jieyu Zhang, Shaokun Zhang, Ao Luo, **Shijian Wang**, Qingyun Wu, Chi Wang<be>
+<br>Linxin Song\*, Jiale Liu\*, Jieyu Zhang, Shaokun Zhang, Ao Luo, **Shijian Wang**, Qingyun Wu, Chi Wang<br><ins>*COLM@AIA 2025*</ins>
 - [Attributed Synthetic Data Generation for Zero-shot Domain-specific Image Classification](https://arxiv.org/abs/2504.04510)
 <br>**Shijian Wang**, Linxin Song, Ryotaro Shimizu, Masayuki Goto, Hanqian Wu<br><ins>*ICME 2025* | <font color=red>Oral Presentation [top 15%]</font></ins>
 
@@ -24,7 +24,7 @@ My research interest is **Data-Centric AI** with emphasis on **Large Multimodal 
 - Southeast University First-Class Scholarship 2023-2024
   
 ## 📍 Professional Services
-- Reviewer: COLM 2025, ECAI 2025, AISTATS 2025, ICME 2025, ICASSP 2025, CVPR@SynData4CV 2024/2025, ICLR@DATA-FM 2025
+- Reviewer: AAAI 2026, COLM 2025, ECAI 2025, AISTATS 2025, ICME 2025, ICASSP 2025, CVPR@SynData4CV 2024/2025, ICLR@DATA-FM 2025
 
 ## 👨‍💻 Industrial Experience
 - Xiaohongshu - Research Intern

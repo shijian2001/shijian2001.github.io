@@ -1,7 +1,7 @@
 (\* denotes equal contribution)
 
 ### Preprint
-- [Video-Thinker: Sparking "Thinking with Videos" via Reinforcement Learning]()
+- [Video-Thinker: Sparking "Thinking with Videos" via Reinforcement Learning](https://www.arxiv.org/abs/2510.23473)
 <br>**Shijian Wang**, Jiarui Jin, Xingjian Wang, Linxin Song, Runhao Fu, Hecheng Wang, Zongyuan Ge, Yuan Lu, Xuelian Cheng<br><ins>*Submitted to ICLR 2026*</ins>
 - [Expanding Scaling Boundary of Compositional Text-to-Image Generation via Composition Curriculum]()
 <br>**Shijian Wang\***, Runhao Fu\*, Siyi Zhao, Qingqin Zhan, Xingjian Wang, Jiarui Jin, Yuan Lu, Hanqian Wu, Cunjian Chen<br><ins>*Submitted to ICLR 2026*</ins>

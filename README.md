@@ -32,7 +32,7 @@ My research interest is **Data-Centric AI** with emphasis on **Large Multimodal 
 - Reviewer: ICLR 2026, AAAI 2026, COLM 2025, ECAI 2025, AISTATS 2025, ICME 2025, ICASSP 2025, CVPR@SynData4CV 2024/2025, ICLR@DATA-FM 2025
 
 ## 👨‍💻 Industrial Experience
-- Xiaohongshu Inc. - Research Intern
+- ExperienceAI-Lab at Xiaohongshu Inc. - Research Intern
 <br> 2025.03-Present
 
 ## 📫 Contact

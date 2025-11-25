@@ -6,6 +6,8 @@ My research interest is **Data-Centric AI** with emphasis on **Large Multimodal 
 *If you want to discuss relevant research topics or potential collaborations, feel free to send me an email.*
 
 ## 📢 News
+[11/25/2025] A new preprint is released! Check [Synthetic Curriculum Reinforces Compositional Text-to-Image Generation](https://arxiv.org/abs/2511.18378) for more details!
+
 [10/28/2025] A new preprint is released! Check [Video-Thinker: Sparking "Thinking with Videos" via Reinforcement Learning](https://www.arxiv.org/abs/2510.23473) for more details!
 
 [05/31/2025] Our paper [Attributed Synthetic Data Generation for Zero-shot Domain-specific Image Classification](https://arxiv.org/abs/2504.04510) got accepted as an **Oral Presentation (top 15%)** at ICME 2025!

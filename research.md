@@ -8,6 +8,8 @@
 - [Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback](https://github.com/DeepExperience/agent2world/blob/main/assets/paper.pdf)
 <br>Mengkang Hu, Bowei Xia, Yuran Wu, Ailing Yu, Yude Zou, Qiguang Chen, **Shijian Wang**, Jiarui Jin, Kexin Li, Wenxiang Jiao, Yuan Lu, Ping Luo<br><ins>*Submitted to ICLR 2026*</ins>
 
+***
+
 ### 2025
 - [Investigating the Scaling Effect of Instruction Templates for Training Multimodal Language Model](https://arxiv.org/abs/2412.08307)
 <br>**Shijian Wang\***, Linxin Song\*, Jieyu Zhang, Ryotaro Shimizu, Jiarui Jin, Ao Luo, Yuan Lu, Li Yao, Cunjian Chen, Julian McAuley, Hanqian Wu<br><ins>*ICLR@DATA-FM 2025*</ins>

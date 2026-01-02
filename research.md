@@ -5,7 +5,7 @@
 <br>**Shijian Wang**, Jiarui Jin, Xingjian Wang, Linxin Song, Runhao Fu, Hecheng Wang, Zongyuan Ge, Yuan Lu, Xuelian Cheng<br><ins>*Submitted to ICLR 2026*</ins>
 - [Synthetic Curriculum Reinforces Compositional Text-to-Image Generation](https://arxiv.org/abs/2511.18378)
 <br>**Shijian Wang\***, Runhao Fu\*, Siyi Zhao, Qingqin Zhan, Xingjian Wang, Jiarui Jin, Yuan Lu, Hanqian Wu, Cunjian Chen<br><ins>*Submitted to CVPR 2026*</ins>
-- [Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback](https://github.com/DeepExperience/agent2world/blob/main/assets/paper.pdf)
+- [Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback](https://arxiv.org/abs/2512.22336)
 <br>Mengkang Hu, Bowei Xia, Yuran Wu, Ailing Yu, Yude Zou, Qiguang Chen, **Shijian Wang**, Jiarui Jin, Kexin Li, Wenxiang Jiao, Yuan Lu, Ping Luo<br><ins>*Submitted to ICLR 2026*</ins>
 
 ***

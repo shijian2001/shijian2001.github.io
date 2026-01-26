@@ -17,7 +17,7 @@ My research interest is **Data-Centric AI** with emphasis on **Large Multimodal 
 ## 📝 Selected Research
 (\* denotes equal contribution)
 - [Video-Thinker: Sparking "Thinking with Videos" via Reinforcement Learning](https://www.arxiv.org/abs/2510.23473)
-<br>**Shijian Wang**, Jiarui Jin, Xingjian Wang, Linxin Song, Runhao Fu, Hecheng Wang, Zongyuan Ge, Yuan Lu, Xuelian Cheng<br><ins>*Submitted to ICLR 2026*</ins>
+<br>**Shijian Wang**, Jiarui Jin, Xingjian Wang, Linxin Song, Runhao Fu, Hecheng Wang, Zongyuan Ge, Yuan Lu, Xuelian Cheng<br><ins>*Submitted to ICML 2026*</ins>
 - [Synthetic Curriculum Reinforces Compositional Text-to-Image Generation](https://arxiv.org/abs/2511.18378)
 <br>**Shijian Wang\***, Runhao Fu\*, Siyi Zhao, Qingqin Zhan, Xingjian Wang, Jiarui Jin, Yuan Lu, Hanqian Wu, Cunjian Chen<br><ins>*Submitted to CVPR 2026*</ins>
 - [Investigating the Scaling Effect of Instruction Templates for Training Multimodal Language Model](https://arxiv.org/abs/2412.08307)

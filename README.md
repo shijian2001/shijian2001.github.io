@@ -6,7 +6,7 @@ My research interest is **Data-Centric AI** with emphasis on **Large Multimodal 
 *If you want to discuss relevant research topics or potential collaborations, feel free to send me an email.*
 
 ## 📢 News
-[11/25/2025] A new preprint is released! Check [Synthetic Curriculum Reinforces Compositional Text-to-Image Generation](https://arxiv.org/abs/2511.18378) for more details!
+[02/21/2026] Our work [Synthetic Curriculum Reinforces Compositional Text-to-Image Generation](https://arxiv.org/abs/2511.18378) is accepted to CVPR 2026!
 
 [10/28/2025] A new preprint is released! Check [Video-Thinker: Sparking "Thinking with Videos" via Reinforcement Learning](https://www.arxiv.org/abs/2510.23473) for more details!
 
@@ -16,14 +16,14 @@ My research interest is **Data-Centric AI** with emphasis on **Large Multimodal 
 
 ## 📝 Selected Research
 (\* denotes equal contribution)
-- [Video-Thinker: Sparking "Thinking with Videos" via Reinforcement Learning](https://www.arxiv.org/abs/2510.23473)
-<br>**Shijian Wang**, Jiarui Jin, Xingjian Wang, Linxin Song, Runhao Fu, Hecheng Wang, Zongyuan Ge, Yuan Lu, Xuelian Cheng<br><ins>*Submitted to ICML 2026*</ins>
 - [Synthetic Curriculum Reinforces Compositional Text-to-Image Generation](https://arxiv.org/abs/2511.18378)
-<br>**Shijian Wang\***, Runhao Fu\*, Siyi Zhao, Qingqin Zhan, Xingjian Wang, Jiarui Jin, Yuan Lu, Hanqian Wu, Cunjian Chen<br><ins>*Submitted to CVPR 2026*</ins>
-- [Investigating the Scaling Effect of Instruction Templates for Training Multimodal Language Model](https://arxiv.org/abs/2412.08307)
-<br>**Shijian Wang\***, Linxin Song\*, Jieyu Zhang, Ryotaro Shimizu, Jiarui Jin, Ao Luo, Yuan Lu, Li Yao, Cunjian Chen, Julian McAuley, Hanqian Wu<br><ins>*Submitted to ACL'26* | *ICLR@DATA-FM 2025*</ins>
+<br>**Shijian Wang\***, Runhao Fu\*, Siyi Zhao, Qingqin Zhan, Xingjian Wang, Jiarui Jin, Yuan Lu, Hanqian Wu, Cunjian Chen<br><ins>*CVPR 2026*</ins>
 - [Attributed Synthetic Data Generation for Zero-shot Domain-specific Image Classification](https://arxiv.org/abs/2504.04510)
 <br>**Shijian Wang**, Linxin Song, Ryotaro Shimizu, Masayuki Goto, Hanqian Wu<br><ins>*ICME 2025* | <font color=red>Oral Presentation [top 15%]</font></ins>
+- [Video-Thinker: Sparking "Thinking with Videos" via Reinforcement Learning](https://www.arxiv.org/abs/2510.23473)
+<br>**Shijian Wang**, Jiarui Jin, Xingjian Wang, Linxin Song, Runhao Fu, Hecheng Wang, Zongyuan Ge, Yuan Lu, Xuelian Cheng<br><ins>*Submitted to ICML 2026*</ins>
+- [Investigating the Scaling Effect of Instruction Templates for Training Multimodal Language Model](https://arxiv.org/abs/2412.08307)
+<br>**Shijian Wang\***, Linxin Song\*, Jieyu Zhang, Ryotaro Shimizu, Jiarui Jin, Ao Luo, Yuan Lu, Li Yao, Cunjian Chen, Julian McAuley, Hanqian Wu<br><ins>*Submitted to ACL'26* | *ICLR@DATA-FM 2025*</ins>
 - [Decoding Prokaryotic Whole Genomes with a Product-Contextualized Large Language Model](https://www.biorxiv.org/content/10.64898/2025.12.03.692003v1.abstract)
 <br>Shiwen Ni, Shuaimin Li, **Shijian Wang**, Xinping Bi, Yitai Li, Chengguang Gan, Jiarui Jin, Yuan Lu, Ahmadreza Argha, Hamid Alinejad-Rokny, Tong Si, Min Yang, Teng Wang<br>
 

@@ -23,7 +23,7 @@ My research interest is **Data-Centric AI** with emphasis on **Large Multimodal 
 - [Video-Thinker: Sparking "Thinking with Videos" via Reinforcement Learning](https://www.arxiv.org/abs/2510.23473)
 <br>**Shijian Wang**, Jiarui Jin, Xingjian Wang, Linxin Song, Runhao Fu, Hecheng Wang, Zongyuan Ge, Yuan Lu, Xuelian Cheng<br><ins>*Submitted to ICML 2026*</ins>
 - [Investigating the Scaling Effect of Instruction Templates for Training Multimodal Language Model](https://arxiv.org/abs/2412.08307)
-<br>**Shijian Wang\***, Linxin Song\*, Jieyu Zhang, Ryotaro Shimizu, Jiarui Jin, Ao Luo, Yuan Lu, Li Yao, Cunjian Chen, Julian McAuley, Hanqian Wu<br><ins>*ICLR@DATA-FM 2025*</ins>
+<br>**Shijian Wang\***, Linxin Song\*, Jieyu Zhang, Ryotaro Shimizu, Jiarui Jin, Ao Luo, Yuan Lu, Li Yao, Cunjian Chen, Julian McAuley, Hanqian Wu<br><ins>*DATA-FM@ICLR 2025*</ins>
 - [Decoding Prokaryotic Whole Genomes with a Product-Contextualized Large Language Model](https://www.biorxiv.org/content/10.64898/2025.12.03.692003v1.abstract)
 <br>Shiwen Ni, Shuaimin Li, **Shijian Wang**, Xinping Bi, Yitai Li, Chengguang Gan, Jiarui Jin, Yuan Lu, Ahmadreza Argha, Hamid Alinejad-Rokny, Tong Si, Min Yang, Teng Wang<br><ins>*Submitted to Nature Methods*</ins>
 
@@ -31,7 +31,7 @@ My research interest is **Data-Centric AI** with emphasis on **Large Multimodal 
 - Southeast University First-Class Scholarship 2023-2024
   
 ## 📍 Professional Services
-- Reviewer: ICLR 2026, AAAI 2026, COLM 2025, ECAI 2025, AISTATS 2025, ICME 2025, ICASSP 2025, CVPR@SynData4CV 2024/2025, ICLR@DATA-FM 2025
+- Reviewer: ICLR 2026, AAAI 2026, COLM 2025, ECAI 2025, AISTATS 2025, ICME 2025, ICASSP 2025, SynData4CV@CVPR 2024/2025, DATA-FM@ICLR 2025
 
 ## 👨‍💻 Industrial Experience
 - ExperienceAI-Lab at Xiaohongshu Inc. - Research Intern

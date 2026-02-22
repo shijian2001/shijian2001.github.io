@@ -2,7 +2,7 @@
 
 ### Preprint
 - [Video-Thinker: Sparking "Thinking with Videos" via Reinforcement Learning](https://www.arxiv.org/abs/2510.23473)
-<br>**Shijian Wang**, Jiarui Jin, Xingjian Wang, Linxin Song, Runhao Fu, Hecheng Wang, Zongyuan Ge, Yuan Lu, Xuelian Cheng<br><ins>*Submitted to ICML 2026*</ins>
+<br>**Shijian Wang\***, Jiarui Jin\*, Xingjian Wang, Linxin Song, Runhao Fu, Hecheng Wang, Zongyuan Ge, Yuan Lu, Xuelian Cheng<br><ins>*Submitted to ICML 2026*</ins>
 - [Decoding Prokaryotic Whole Genomes with a Product-Contextualized Large Language Model](https://www.biorxiv.org/content/10.64898/2025.12.03.692003v1.abstract)
 <br>Shiwen Ni, Shuaimin Li, **Shijian Wang**, Xinping Bi, Yitai Li, Chengguang Gan, Jiarui Jin, Yuan Lu, Ahmadreza Argha, Hamid Alinejad-Rokny, Tong Si, Min Yang, Teng Wang<br><ins>*Submitted to Nature Methods*</ins>
 - [Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback](https://arxiv.org/abs/2512.22336)

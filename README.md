@@ -21,7 +21,7 @@ My research interest is **Data-Centric AI** with emphasis on **Large Multimodal 
 - [Attributed Synthetic Data Generation for Zero-shot Domain-specific Image Classification](https://arxiv.org/abs/2504.04510)
 <br>**Shijian Wang**, Linxin Song, Ryotaro Shimizu, Masayuki Goto, Hanqian Wu<br><ins>*ICME 2025* | <font color=red>Oral Presentation [top 15%]</font></ins>
 - [Video-Thinker: Sparking "Thinking with Videos" via Reinforcement Learning](https://www.arxiv.org/abs/2510.23473)
-<br>**Shijian Wang**, Jiarui Jin, Xingjian Wang, Linxin Song, Runhao Fu, Hecheng Wang, Zongyuan Ge, Yuan Lu, Xuelian Cheng<br><ins>*Submitted to ICML 2026*</ins>
+<br>**Shijian Wang\***, Jiarui Jin\*, Xingjian Wang, Linxin Song, Runhao Fu, Hecheng Wang, Zongyuan Ge, Yuan Lu, Xuelian Cheng<br><ins>*Submitted to ICML 2026*</ins>
 - [Investigating the Scaling Effect of Instruction Templates for Training Multimodal Language Model](https://arxiv.org/abs/2412.08307)
 <br>**Shijian Wang\***, Linxin Song\*, Jieyu Zhang, Ryotaro Shimizu, Jiarui Jin, Ao Luo, Yuan Lu, Li Yao, Cunjian Chen, Julian McAuley, Hanqian Wu<br><ins>*DATA-FM@ICLR 2025*</ins>
 - [Decoding Prokaryotic Whole Genomes with a Product-Contextualized Large Language Model](https://www.biorxiv.org/content/10.64898/2025.12.03.692003v1.abstract)

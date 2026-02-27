@@ -5,6 +5,8 @@
 <br>**Shijian Wang\***, Jiarui Jin\*, Xingjian Wang, Linxin Song, Runhao Fu, Hecheng Wang, Zongyuan Ge, Yuan Lu, Xuelian Cheng<br><ins>*Submitted to ICML 2026*</ins>
 - [Decoding Prokaryotic Whole Genomes with a Product-Contextualized Large Language Model](https://www.biorxiv.org/content/10.64898/2025.12.03.692003v1.abstract)
 <br>Shiwen Ni, Shuaimin Li, **Shijian Wang**, Xinping Bi, Yitai Li, Chengguang Gan, Jiarui Jin, Yuan Lu, Ahmadreza Argha, Hamid Alinejad-Rokny, Tong Si, Min Yang, Teng Wang<br><ins>*Submitted to Nature Methods*</ins>
+- [OmniGAIA: Towards Native Omni-Modal AI Agents](https://arxiv.org/abs/2602.22897)
+<br>Xiaoxi Li, Wenxiang Jiao, Jiarui Jin, **Shijian Wang**, Guanting Dong, Jiajie Jin, Hao Wang, Yinuo Wang, Ji-Rong Wen, Yuan Lu, Zhicheng Dou<br><ins>*Submitted to ICML 2026*</ins>
 - [Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback](https://arxiv.org/abs/2512.22336)
 <br>Mengkang Hu, Bowei Xia, Yuran Wu, Ailing Yu, Yude Zou, Qiguang Chen, **Shijian Wang**, Jiarui Jin, Kexin Li, Wenxiang Jiao, Yuan Lu, Ping Luo<br><ins>*Submitted to ICML 2026*</ins>
 

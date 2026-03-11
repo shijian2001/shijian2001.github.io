@@ -5,12 +5,14 @@
 <br>**Shijian Wang\***, Jiarui Jin\*, Xingjian Wang, Linxin Song, Runhao Fu, Hecheng Wang, Zongyuan Ge, Yuan Lu, Xuelian Cheng<br><ins>*Submitted to ICML 2026*</ins>
 - [Decoding Prokaryotic Whole Genomes with a Product-Contextualized Large Language Model](https://www.biorxiv.org/content/10.64898/2025.12.03.692003v1.abstract)
 <br>Shiwen Ni, Shuaimin Li, **Shijian Wang**, Xinping Bi, Yitai Li, Chengguang Gan, Jiarui Jin, Yuan Lu, Ahmadreza Argha, Hamid Alinejad-Rokny, Tong Si, Min Yang, Teng Wang<br><ins>*Submitted to Nature Methods*</ins>
+- [Tool-Genesis: A Task-Driven Tool Creation Benchmark for Self-Evolving Language Agent](https://arxiv.org/abs/2603.05578)
+<br>Bowei Xia, Mengkang Hu, **Shijian Wang**, Jiarui Jin, Wenxiang Jiao, Yuan Lu, Kexin Li, Ping Luo<br><ins>*Submitted to ICML 2026*</ins>
 - [OmniGAIA: Towards Native Omni-Modal AI Agents](https://arxiv.org/abs/2602.22897)
 <br>Xiaoxi Li, Wenxiang Jiao, Jiarui Jin, **Shijian Wang**, Guanting Dong, Jiajie Jin, Hao Wang, Yinuo Wang, Ji-Rong Wen, Yuan Lu, Zhicheng Dou<br><ins>*Submitted to ICML 2026*</ins>
-- [Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback](https://arxiv.org/abs/2512.22336)
-<br>Mengkang Hu, Bowei Xia, Yuran Wu, Ailing Yu, Yude Zou, Qiguang Chen, **Shijian Wang**, Jiarui Jin, Kexin Li, Wenxiang Jiao, Yuan Lu, Ping Luo<br><ins>*Submitted to ICML 2026*</ins>
 - [CoTJudger: A Graph-Driven Framework for Automatic Evaluation of Chain-of-Thought Efficiency and Redundancy in LRMs](https://arxiv.org/abs/2603.07078)
 <br>Siyi Li, Jiajun Shi, Shiwen Ni, Ge Zhang, Shuaimin Li, **Shijian Wang**, Zhoufutu Wen, Yizhi Li, Hamid Alinejad-Rokny, Jiaheng Liu, Min Yang, Wenhao Huang<br><ins>*Submitted to ACL 2026*</ins>
+- [Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback](https://arxiv.org/abs/2512.22336)
+<br>Mengkang Hu, Bowei Xia, Yuran Wu, Ailing Yu, Yude Zou, Qiguang Chen, **Shijian Wang**, Jiarui Jin, Kexin Li, Wenxiang Jiao, Yuan Lu, Ping Luo<br><ins>*Submitted to ICML 2026*</ins>
 
 ***
 

@@ -9,6 +9,8 @@
 <br>Bowei Xia, Mengkang Hu, **Shijian Wang**, Jiarui Jin, Wenxiang Jiao, Yuan Lu, Kexin Li, Ping Luo<br><ins>*Submitted to ICML 2026*</ins>
 - [OmniGAIA: Towards Native Omni-Modal AI Agents](https://arxiv.org/abs/2602.22897)
 <br>Xiaoxi Li, Wenxiang Jiao, Jiarui Jin, **Shijian Wang**, Guanting Dong, Jiajie Jin, Hao Wang, Yinuo Wang, Ji-Rong Wen, Yuan Lu, Zhicheng Dou<br><ins>*Submitted to ICML 2026*</ins>
+- [GlyphBanana: Advancing Precise Text Rendering Through Agentic Workflows](https://arxiv.org/abs/2603.12155)
+<br>Zexuan Yan, Jiarui Jin, Yue Ma, **Shijian Wang**, Jiahui Hu, Wenxiang Jiao, Yuan Lu, Linfeng Zhang<br><ins>*Submitted to ECCV 2026*</ins>
 - [CoTJudger: A Graph-Driven Framework for Automatic Evaluation of Chain-of-Thought Efficiency and Redundancy in LRMs](https://arxiv.org/abs/2603.07078)
 <br>Siyi Li, Jiajun Shi, Shiwen Ni, Ge Zhang, Shuaimin Li, **Shijian Wang**, Zhoufutu Wen, Yizhi Li, Hamid Alinejad-Rokny, Jiaheng Liu, Min Yang, Wenhao Huang<br><ins>*Submitted to ACL 2026*</ins>
 - [Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback](https://arxiv.org/abs/2512.22336)

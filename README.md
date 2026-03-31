@@ -6,6 +6,8 @@ My research interest is **Data-Centric AI** with emphasis on **Large Multimodal 
 *If you want to discuss relevant research topics or potential collaborations, feel free to send me an email.*
 
 ## 📢 News
+[03/31/2026] A new preprint is released! Check [MuSEAgent: A Multimodal Reasoning Agent with Stateful Experiences](https://arxiv.org/abs/2603.27813) for more details!
+
 [02/21/2026] Our work [Synthetic Curriculum Reinforces Compositional Text-to-Image Generation](https://arxiv.org/abs/2511.18378) is accepted to CVPR 2026!
 
 [10/28/2025] A new preprint is released! Check [Video-Thinker: Sparking "Thinking with Videos" via Reinforcement Learning](https://www.arxiv.org/abs/2510.23473) for more details!
@@ -22,6 +24,8 @@ My research interest is **Data-Centric AI** with emphasis on **Large Multimodal 
 <br>**Shijian Wang**, Linxin Song, Ryotaro Shimizu, Masayuki Goto, Hanqian Wu<br><ins>*ICME 2025* | <font color=red>Oral Presentation [top 15%]</font></ins>
 - [Video-Thinker: Sparking "Thinking with Videos" via Reinforcement Learning](https://www.arxiv.org/abs/2510.23473)
 <br>**Shijian Wang\***, Jiarui Jin\*, Xingjian Wang, Linxin Song, Runhao Fu, Hecheng Wang, Zongyuan Ge, Yuan Lu, Xuelian Cheng<br><ins>*Submitted to ICML 2026*</ins>
+- [MuSEAgent: A Multimodal Reasoning Agent with Stateful Experiences](https://arxiv.org/abs/2603.27813)
+<br>**Shijian Wang\***, Jiarui Jin\*, Runhao Fu, Zexuan Yan, Xingjian Wang, Mengkang Hu, Eric Wang, Xiaoxi Li, Kangning Zhang, Li Yao, Wenxiang Jiao, Xuelian Cheng, Yuan Lu, Zongyuan Ge<br>
 - [Investigating the Scaling Effect of Instruction Templates for Training Multimodal Language Model](https://arxiv.org/abs/2412.08307)
 <br>**Shijian Wang\***, Linxin Song\*, Jieyu Zhang, Ryotaro Shimizu, Jiarui Jin, Ao Luo, Yuan Lu, Li Yao, Cunjian Chen, Julian McAuley, Hanqian Wu<br><ins>*DATA-FM@ICLR 2025*</ins>
 - [Decoding Prokaryotic Whole Genomes with a Product-Contextualized Large Language Model](https://www.biorxiv.org/content/10.64898/2025.12.03.692003v1.abstract)

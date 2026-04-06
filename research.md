@@ -13,8 +13,6 @@
 <br>Xiaoxi Li, Wenxiang Jiao, Jiarui Jin, **Shijian Wang**, Guanting Dong, Jiajie Jin, Hao Wang, Yinuo Wang, Ji-Rong Wen, Yuan Lu, Zhicheng Dou<br><ins>*Submitted to ICML 2026*</ins>
 - [GlyphBanana: Advancing Precise Text Rendering Through Agentic Workflows](https://arxiv.org/abs/2603.12155)
 <br>Zexuan Yan, Jiarui Jin, Yue Ma, **Shijian Wang**, Jiahui Hu, Wenxiang Jiao, Yuan Lu, Linfeng Zhang<br><ins>*Submitted to ECCV 2026*</ins>
-- [CoTJudger: A Graph-Driven Framework for Automatic Evaluation of Chain-of-Thought Efficiency and Redundancy in LRMs](https://arxiv.org/abs/2603.07078)
-<br>Siyi Li, Jiajun Shi, Shiwen Ni, Ge Zhang, Shuaimin Li, **Shijian Wang**, Zhoufutu Wen, Yizhi Li, Hamid Alinejad-Rokny, Jiaheng Liu, Min Yang, Wenhao Huang<br><ins>*Submitted to ACL 2026*</ins>
 - [Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback](https://arxiv.org/abs/2512.22336)
 <br>Mengkang Hu, Bowei Xia, Yuran Wu, Ailing Yu, Yude Zou, Qiguang Chen, **Shijian Wang**, Jiarui Jin, Kexin Li, Wenxiang Jiao, Yuan Lu, Ping Luo<br><ins>*Submitted to ICML 2026*</ins>
 
@@ -23,6 +21,10 @@
 ### 2026
 - [Synthetic Curriculum Reinforces Compositional Text-to-Image Generation](https://arxiv.org/abs/2511.18378)
 <br>**Shijian Wang\***, Runhao Fu\*, Siyi Zhao, Qingqin Zhan, Xingjian Wang, Jiarui Jin, Yuan Lu, Hanqian Wu, Cunjian Chen<br><ins>*CVPR 2026*</ins>
+- [CoTJudger: A Graph-Driven Framework for Automatic Evaluation of Chain-of-Thought Efficiency and Redundancy in LRMs](https://arxiv.org/abs/2603.07078)
+<br>Siyi Li, Jiajun Shi, Shiwen Ni, Ge Zhang, Shuaimin Li, **Shijian Wang**, Zhoufutu Wen, Yizhi Li, Hamid Alinejad-Rokny, Jiaheng Liu, Min Yang, Wenhao Huang<br><ins>*ACL 2026 (findings)*</ins>
+- [Mmm: Multilingual mutual reinforcement effect mix datasets & test with open-domain information extraction large language models](https://arxiv.org/abs/2407.10953)
+<br>Chengguang Gan, Sunbowen Lee, Qingyu Yin, Xinyang He, Hanjun Wei, Yunhao Liang, Younghun Lim, **Shijian Wang**, Hexiang Huang, Qinghao Zhang, Shiwen Ni, Tatsunori Mori<br><ins>*ACL 2026 (findings)*</ins>
 
 ### 2025
 - [Investigating the Scaling Effect of Instruction Templates for Training Multimodal Language Model](https://arxiv.org/abs/2412.08307)

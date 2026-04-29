@@ -2,10 +2,7 @@ I'm a 3-rd year M.S. student in Computer Science at Southeast University, advise
 
 ## 😄 Research Interests
 
-<div class="intro-block">
 My research interest is **Data-Centric AI** with emphasis on **Large Multimodal Models**, including Image / Video / 3D / 4D / Multimodal World Model.
-</div>
-
 
 *If you want to discuss relevant research topics or potential collaborations, feel free to send me an email.*
 

@@ -29,10 +29,10 @@
 <br>**Shijian Wang\***, Runhao Fu\*, Siyi Zhao, Qingqin Zhan, Xingjian Wang, Jiarui Jin, Yuan Lu, Hanqian Wu, Cunjian Chen<br><ins>*CVPR 2026*</ins>
 - [CoTJudger: A Graph-Driven Framework for Automatic Evaluation of Chain-of-Thought Efficiency and Redundancy in LRMs](https://arxiv.org/abs/2603.07078)
 <br>Siyi Li, Jiajun Shi, Shiwen Ni, Ge Zhang, Shuaimin Li, **Shijian Wang**, Zhoufutu Wen, Yizhi Li, Hamid Alinejad-Rokny, Jiaheng Liu, Min Yang, Wenhao Huang<br><ins>*ACL 2026 (findings)*</ins>
-- [Optimal Transport for Reward Modeling from Noisy Feedback]()
+- [Optimal Transport for LLM Reward Modeling from Noisy Preference](https://arxiv.org/abs/2605.06036)
 <br>Eric Wang, Licheng Pan, Haocheng Yang, Yunsheng Lu, Yongqi Tong, Yinuo Wang, **Shijian Wang**, Zhixuan Chu, Lei Shen, Haoxuan Li, Yuan Lu<br><ins>*ICML 2026*</ins>
 - [MMM: Multilingual mutual reinforcement effect mix datasets & test with open-domain information extraction large language models](https://arxiv.org/abs/2407.10953)
-<br>Chengguang Gan, Sunbowen Lee, Qingyu Yin, Xinyang He, Hanjun Wei, Yunhao Liang, Younghun Lim, **Shijian Wang**, Hexiang Huang, Qinghao Zhang, Shiwen Ni, Tatsunori Mori<br><ins>*ACL 2026 (findings)*</ins>
+<br>Licheng Pan, Haochen Yang, Haoxuan Li, Yunsheng Lu, Yongqi Tong, Yinuo Wang, **Shijian Wang**, Zhixuan Chu, Lei Shen, Yuan Lu, Hao Wang<br><ins>*ACL 2026 (findings)*</ins>
 
 ### 2025
 - [Investigating the Scaling Effect of Instruction Templates for Training Multimodal Language Model](https://arxiv.org/abs/2412.08307)

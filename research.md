@@ -15,6 +15,8 @@
 <br>Xiaoxi Li, Wenxiang Jiao, Jiarui Jin, **Shijian Wang**, Guanting Dong, Jiajie Jin, Hao Wang, Yinuo Wang, Ji-Rong Wen, Yuan Lu, Zhicheng Dou<br>
 - [GlyphBanana: Advancing Precise Text Rendering Through Agentic Workflows](https://arxiv.org/abs/2603.12155)
 <br>Zexuan Yan, Jiarui Jin, Yue Ma, **Shijian Wang**, Jiahui Hu, Wenxiang Jiao, Yuan Lu, Linfeng Zhang<br><ins>*Submitted to ECCV 2026*</ins>
+- [MMSkills: Towards Multimodal Skills for General Visual Agents](https://arxiv.org/abs/2605.13527)
+<br>Kangning Zhang, Shuai Shao, Qingyao Li, Jianghao Lin, Lingyue Fu, **Shijian Wang**, Wenxiang Jiao, Yuan Lu, Weiwen Liu, Weinan Zhang, Yong Yu<br>
 - [Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback](https://arxiv.org/abs/2512.22336)
 <br>Mengkang Hu, Bowei Xia, Yuran Wu, Ailing Yu, Yude Zou, Qiguang Chen, **Shijian Wang**, Jiarui Jin, Kexin Li, Wenxiang Jiao, Yuan Lu, Ping Luo<br>
 - [ClawMark: A Living-World Benchmark for Multi-Turn, Multi-Day, Multimodal Coworker Agents](https://arxiv.org/abs/2604.23781)
